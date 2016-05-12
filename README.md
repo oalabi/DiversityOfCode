@@ -46,9 +46,9 @@ This script will build a data map that models unique word associations
     -r, --retweet-count-column
             
     ** Example: **
-    python relationmap.py -i inputfile.csv -o outputfile.json -c 8 -r 3
+    python associationmatrix.py -i inputfile.csv -o outputfile.json -c 8 -r 3
     
-## GetTweets API
+## GetTweets API (culled from Jeffrey Henrique's GetTweets documentation)
 - **Tweet:** Model class to give some informations about a specific tweet.
 
 - id (str)
