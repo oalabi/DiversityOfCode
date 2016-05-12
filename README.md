@@ -14,7 +14,7 @@ terms = ['#girlswhocode', 'diversity in tech', 'minorities in tech', 'minority i
 
 
 ## Components 
-** diversity_scraper.py **
+**diversity_scraper.py **
 To use this script, you can pass the folowing attributes:
     username: Username of a specific twitter account (without @)
     since: The lower bound date (yyyy-mm-dd)
@@ -37,7 +37,7 @@ To use this script, you can pass the folowing attributes:
     # Example 4 - Get tweets by username and bound dates [barackobama, '2015-09-10', '2015-09-12']
      python diversity_scraper.py --username 'barackobama' --since 2015-09-10 --until 2015-09-12 --maxtweets 1 --outputfile "barack.csv"
      
-** associationmatrix.py**
+**associationmatrix.py**
 To use this script, you need to specify the location of the csv file with the data generated using diversity_scraper.py
 This script will build a data map that models unique word associations
     -i, --inputfile 
@@ -45,9 +45,11 @@ This script will build a data map that models unique word associations
     -t, --tag-column
     -r, --retweet-count-column
             
-    ** Example: **
+    **Example:**
     python associationmatrix.py -i inputfile.csv -o outputfile.json -c 8 -r 3
-    
+
+</hr>    
+
 ## GetTweets API (culled from Jeffrey Henrique's GetTweets documentation)
 - **Tweet:** Model class to give some informations about a specific tweet.
 
