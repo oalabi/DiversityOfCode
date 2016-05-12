@@ -50,7 +50,7 @@ This script will build a data map that models unique word associations
 
 </hr>    
 
-## GetTweets API (culled from Jeffrey Henrique's GetTweets documentation)
+## GetOldTweets API (culled from Jeffrey Henrique's GetTweets documentation)
 - **Tweet:** Model class to give some informations about a specific tweet.
 
 - id (str)
