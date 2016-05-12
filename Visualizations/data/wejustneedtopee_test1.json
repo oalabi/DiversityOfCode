@@ -1,0 +1,5545 @@
+[
+    {
+        "name": "diversity.#truth", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wejustwanttopee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nevada", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#frankartiles", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#texasvalues", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#stopthehate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearenotthis"
+        ], 
+        "name_frequency": 37, 
+        "associated_name_frequencies": [
+            13.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transyouthmatter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#happy", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wearenotthis", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#mccrory"
+        ], 
+        "name_frequency": 85, 
+        "associated_name_frequencies": [
+            5.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#cdntrans", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#thisisnotus", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transgenderrestrooms", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#avery", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#occupotty", 
+        "degree": 13, 
+        "associated_names": [
+            "diversity.#occupotty", 
+            "diversity.#c279", 
+            "diversity.#plettputmeheretrans", 
+            "diversity.#lgbt", 
+            "diversity.#letmypeoplepee", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#illgowithyou", 
+            "diversity.#translivesmatter", 
+            "diversity.#transphobia", 
+            "diversity.#transrights", 
+            "diversity.#bathroombill", 
+            "diversity.#ottcity", 
+            "diversity.#transawareness"
+        ], 
+        "name_frequency": 4980, 
+        "associated_name_frequencies": [
+            37.0, 
+            4.0, 
+            1.0, 
+            20.0, 
+            7.0, 
+            1151.0, 
+            5.0, 
+            450.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            20.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ff", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#prisonwife", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#indiana", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#stoptransphobia", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ksed", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transpride", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#piff", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#riseupandgo", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#topoli", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#youareequal", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tcot", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ccot"
+        ], 
+        "name_frequency": 36, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#damnthefacebookstalkers", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#noyouretherapists", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#liberal", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#politics", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transpower", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transfobia", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dontbeajerk", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transkids", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 13, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#peein", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ilovemylife", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#mcdonalds", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#equality"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            7.0
+        ]
+    }, 
+    {
+        "name": "diversity.#c279", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#canpoli", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#transrights"
+        ], 
+        "name_frequency": 58, 
+        "associated_name_frequencies": [
+            2.0, 
+            3.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hero", 
+        "degree": 4, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#translife", 
+            "diversity.#houston", 
+            "diversity.#transawarenessmonth"
+        ], 
+        "name_frequency": 138, 
+        "associated_name_frequencies": [
+            29.0, 
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncga", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sociology", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#canpoli", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transgirl", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#boycottnc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 36, 
+        "associated_name_frequencies": [
+            28.0
+        ]
+    }, 
+    {
+        "name": "diversity.#plettputmehere", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#c279", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#translivesmatter", 
+            "diversity.#", 
+            "diversity.#wheredowebelong"
+        ], 
+        "name_frequency": 305, 
+        "associated_name_frequencies": [
+            1.0, 
+            151.0, 
+            20.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transguy", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#northcarolina"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transyouth", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whyfeminism", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#regpf0lls05f"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#londonontario", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#terf", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroomjustice", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 17, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#feminism", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#commonsense"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#guyslikeus", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#ftm", 
+            "diversity.#thankyouforthesupport"
+        ], 
+        "name_frequency": 528, 
+        "associated_name_frequencies": [
+            1.0, 
+            421.0
+        ]
+    }, 
+    {
+        "name": "diversity.#justkeepplayingwithballscurt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nonbinaryproblems", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#isnttwitterfun", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#coexist", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transisbeautiful", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#lgbtq", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#translivesmatter", 
+            "diversity.#noonab375", 
+            "diversity.#fighttransphobia"
+        ], 
+        "name_frequency": 43, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            15.0, 
+            6.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#berniestrong", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transrespect", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#safebathroomsdc"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#plettputmeheretrans", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#cdndiversity", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#genderdysphoria", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#civilrights", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#letthempee", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#glaad", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#trans"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtsolidarity", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#usa", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#canada"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gay", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#uniteblue", 
+            "diversity.#lgbt", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hb2414", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ftm", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#trans", 
+            "diversity.#transgender"
+        ], 
+        "name_frequency": 20, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#solidarity", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transwoman", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#education", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#peeinprotest", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#occupythebathrooms", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#idiots", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#selfies", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#canada", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#insuretn", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#selfcare"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transaware", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#question", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#whiteroserevolt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#westilljustneedtopee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fightingforourlives", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lesbian", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#selfiesxsw", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transrightsmatter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#safety", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#translivesmatter"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stupidlaws", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ohio", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#andcallmymom", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#equalitymatters", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#snackonthis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#unisexrestrooms", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#morethanvisibility", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lovewins", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtq", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#notpredators", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#translivesmatter", 
+            "diversity.#equality", 
+            "diversity.#transgender"
+        ], 
+        "name_frequency": 125, 
+        "associated_name_frequencies": [
+            1.0, 
+            30.0, 
+            2.0, 
+            8.0, 
+            7.0
+        ]
+    }, 
+    {
+        "name": "diversity.#protesting", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#genderequality", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transrightsnow", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transsupporter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#uniteblue", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#privacyforallstudents", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#beanally", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transmisogyny", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wvpol", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whitehouse", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ibelonghere", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transproblems", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thehatestate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": [
+            8.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transgendertoilets", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#illgowithyou"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bigotrysucks", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#share", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lightweight", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#support", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#charlotte", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tmz", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transpeople", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#notpredators", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroomforbrendon", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#p2", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#worldpoetryday", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#changethesigns", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#florida", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gnc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#onlylove", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#canadians", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#notinmytown", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#noprivacyforall"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#justneedtoshit", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#justneedtoadjustmyunderwear"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#oklahoma", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#iamnotaspecialinterestgroup", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#imwithher", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#theyjustneedtopee", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#translivesmatter"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#washington", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 23, 
+        "associated_name_frequencies": [
+            23.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sorrynotsorry", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#thankyouforthesupport", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 421, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#restroom", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#embracethehate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            9.0
+        ]
+    }, 
+    {
+        "name": "diversity.#northcarolina", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#translivesmatter", 
+            "diversity.#shameonnc"
+        ], 
+        "name_frequency": 40, 
+        "associated_name_frequencies": [
+            16.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#growup", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hb1008", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#loveislove", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thetinlgbt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#googlesomething", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#standwithpp", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#abfaith", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#womancard", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#letuslive", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroomban", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#girlslikeus"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#discrimination", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bitcoin", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fr4lktuea05w", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transsexual", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#supporttransyouth", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transmonth", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#republicans", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#noprivacyforall", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#doolingputmehere", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sf3002", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#mnbathroombill"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#yale", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#yale"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbt", 
+        "degree": 8, 
+        "associated_names": [
+            "diversity.#lesbian", 
+            "diversity.#lgbtq", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#translivesmatter", 
+            "diversity.#transgenderrights", 
+            "diversity.#transwomenarewomen", 
+            "diversity.#trans", 
+            "diversity.#transgender"
+        ], 
+        "name_frequency": 233, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            24.0, 
+            1.0, 
+            4.0, 
+            5.0, 
+            4.0, 
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stopobsessingoverourgenitalia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#megatron", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#archerfarms", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#trashrights", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#excusesforthecrimein5words", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#letmypeoplepee", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#occupotty", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 128, 
+        "associated_name_frequencies": [
+            6.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#27", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#28", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#atec2322", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#money", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lol", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 22, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtnews", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#boyslikeus", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#doublestandards", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#humanrightsabuse"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#abed", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#occupypotty", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2414"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#cdnpoli", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#lgbt", 
+            "diversity.#canqueer"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stop_hb_583", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#transrightsmatter", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            3.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#savagelovecast", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#eeoc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 11, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#caitlynjenner", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bigotry", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#loveyourneighbor", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#senate", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtqi", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wan2p", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ctagtc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bathrooms", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#alliesoflbgt"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            3.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hypocrites", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#donaldplett", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#blacklivesmatter", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#goldenrosepsychicradio", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#flyingmonkeys", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hb583", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#medx", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroomlaw", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#seriouslyjustletpeoplepeeinpeace", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#illgowithyou"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ishouldbelaughing", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#equalrights", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#humanrights"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            1.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#missouri", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#statistic", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#prince", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#supporttransrights", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#youdontgettosee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ccot", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wejustneedtopee", 
+        "degree": 138, 
+        "associated_names": [
+            "diversity.#wejustwanttopee", 
+            "diversity.#stopthehate", 
+            "diversity.#wearenotthis", 
+            "diversity.#thisisnotus", 
+            "diversity.#occupotty", 
+            "diversity.#piff", 
+            "diversity.#tcot", 
+            "diversity.#noyouretherapists", 
+            "diversity.#transpower", 
+            "diversity.#c279", 
+            "diversity.#hero", 
+            "diversity.#plettputmehere", 
+            "diversity.#transguy", 
+            "diversity.#bathroomjustice", 
+            "diversity.#guyslikeus", 
+            "diversity.#justkeepplayingwithballscurt", 
+            "diversity.#transisbeautiful", 
+            "diversity.#berniestrong", 
+            "diversity.#lgbtsolidarity", 
+            "diversity.#solidarity", 
+            "diversity.#selfiesxsw", 
+            "diversity.#transrightsmatter", 
+            "diversity.#andcallmymom", 
+            "diversity.#snackonthis", 
+            "diversity.#lgbtq", 
+            "diversity.#genderequality", 
+            "diversity.#transrightsnow", 
+            "diversity.#beanally", 
+            "diversity.#ibelonghere", 
+            "diversity.#lightweight", 
+            "diversity.#tmz", 
+            "diversity.#changethesigns", 
+            "diversity.#florida", 
+            "diversity.#northcarolina", 
+            "diversity.#hb1008", 
+            "diversity.#letuslive", 
+            "diversity.#doolingputmehere", 
+            "diversity.#lgbt", 
+            "diversity.#stopobsessingoverourgenitalia", 
+            "diversity.#letmypeoplepee", 
+            "diversity.#eeoc", 
+            "diversity.#wan2p", 
+            "diversity.#blacklivesmatter", 
+            "diversity.#flyingmonkeys", 
+            "diversity.#hb583", 
+            "diversity.#supporttransrights", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#illgowithyou", 
+            "diversity.#twospiritlivesmatter", 
+            "diversity.#justgopeethen", 
+            "diversity.#aitxconference", 
+            "diversity.#translivesmatter", 
+            "diversity.#gop", 
+            "diversity.#tdov2015", 
+            "diversity.#tdov2016", 
+            "diversity.#mtf", 
+            "diversity.#transphobia", 
+            "diversity.#veteran", 
+            "diversity.#mnleg", 
+            "diversity.#illgowit", 
+            "diversity.#transgenderproblems", 
+            "diversity.#humanrights", 
+            "diversity.#transgenderrights", 
+            "diversity.#tonightly", 
+            "diversity.#transliesmatter", 
+            "diversity.#transrights", 
+            "diversity.#shameonnc", 
+            "diversity.#nogenderpolicing", 
+            "diversity.#nobathroombill", 
+            "diversity.#hashtag", 
+            "diversity.#bathroomselfie", 
+            "diversity.#2", 
+            "diversity.#", 
+            "diversity.#ijustwantedtopee", 
+            "diversity.#whatsourtoughestobstacle", 
+            "diversity.#hb2", 
+            "diversity.#sloqueremosmear", 
+            "diversity.#robotliberation", 
+            "diversity.#doingitright", 
+            "diversity.#wejustdifferent", 
+            "diversity.#nvleg", 
+            "diversity.#southdakota", 
+            "diversity.#proudtransman", 
+            "diversity.#wejustneedtodrive", 
+            "diversity.#noloo4u", 
+            "diversity.#paradeoffools", 
+            "diversity.#thegword", 
+            "diversity.#eowwcmj3fsmvmprw", 
+            "diversity.#weneedtopass", 
+            "diversity.#transissues", 
+            "diversity.#vetohb1008", 
+            "diversity.#protectallhoustonians", 
+            "diversity.#ally", 
+            "diversity.#lgbtqia", 
+            "diversity.#txlege", 
+            "diversity.#peequality", 
+            "diversity.#transscripts", 
+            "diversity.#socialmedia", 
+            "diversity.#whatmatters", 
+            "diversity.#priorities", 
+            "diversity.#transjusticenow", 
+            "diversity.#noh8", 
+            "diversity.#passgendanow", 
+            "diversity.#smartnews", 
+            "diversity.#bathroombillproblems", 
+            "diversity.#trans", 
+            "diversity.#goodjobamerica", 
+            "diversity.#dignity", 
+            "diversity.#megamouthtweets", 
+            "diversity.#nfl", 
+            "diversity.#transactivism", 
+            "diversity.#wewillnotbesilenced", 
+            "diversity.#transally", 
+            "diversity.#zdrdr0u7pwioz72c", 
+            "diversity.#titleix", 
+            "diversity.#thestrugglecontinues", 
+            "diversity.#transandproud", 
+            "diversity.#soap", 
+            "diversity.#beheard", 
+            "diversity.#iwillgowithyou", 
+            "diversity.#peeinpeace", 
+            "diversity.#smh", 
+            "diversity.#glbt", 
+            "diversity.#transgender", 
+            "diversity.#gaythiest", 
+            "diversity.#bathroombills", 
+            "diversity.#pride", 
+            "diversity.#wrongsideofhistory", 
+            "diversity.#repealhb2", 
+            "diversity.#transawareness", 
+            "diversity.#weneedtopee", 
+            "diversity.#protectourtranskids", 
+            "diversity.#translives", 
+            "diversity.#transpobic", 
+            "diversity.#ab375", 
+            "diversity.#genderfluidproblems", 
+            "diversity.#girlslikeus", 
+            "diversity.#ivereallygottopee"
+        ], 
+        "name_frequency": 11829, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            22.0, 
+            3.0, 
+            110.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            3.0, 
+            2.0, 
+            26.0, 
+            1.0, 
+            17.0, 
+            1.0, 
+            1.0, 
+            11.0, 
+            12.0, 
+            6.0, 
+            1.0, 
+            5.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            49.0, 
+            5.0, 
+            2.0, 
+            4.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            39.0, 
+            12.0, 
+            1.0, 
+            5.0, 
+            4.0, 
+            2.0, 
+            3.0, 
+            1.0, 
+            1.0, 
+            4088.0, 
+            72.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            461.0, 
+            1.0, 
+            1.0, 
+            7.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            3.0, 
+            1.0, 
+            2.0, 
+            3.0, 
+            1.0, 
+            1.0, 
+            6.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            74.0, 
+            1.0, 
+            1.0, 
+            19.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            9.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            5.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            10.0, 
+            5.0, 
+            6.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            3.0, 
+            1.0, 
+            1.0, 
+            3.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            20.0, 
+            1.0, 
+            3.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            4.0, 
+            3.0, 
+            3.0, 
+            1.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            13.0, 
+            1.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            7.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            12.0, 
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#privacyforall", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ahra", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#rights", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ijustneedtopee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 13, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whyareyoulooking", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#growup"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#us", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#trustthemtoknowwheretheyneedtogo", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 17, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#birthcertificates", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sogi", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#notseperate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#youareequal"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#illgowithyou", 
+        "degree": 7, 
+        "associated_names": [
+            "diversity.#occupotty", 
+            "diversity.#lgbtq", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#translivesmatter", 
+            "diversity.#id2p", 
+            "diversity.#trans", 
+            "diversity.#transgender"
+        ], 
+        "name_frequency": 202, 
+        "associated_name_frequencies": [
+            20.0, 
+            2.0, 
+            69.0, 
+            1.0, 
+            1.0, 
+            3.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stribpol", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#translivesmatter"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bathroomequality", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transdayofvisibility", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sb6443", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroommyth", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dino_71pgh", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#twospiritlivesmatter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#equality4all", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#iamarobot", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#weweeouiouinoid", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#passover", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#justgopeethen", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#flavnt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#norepeal", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pumpkincoffee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#aitxconference", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#abbotsford", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#translivesmatter", 
+        "degree": 21, 
+        "associated_names": [
+            "diversity.#occupotty", 
+            "diversity.#guyslikeus", 
+            "diversity.#transisbeautiful", 
+            "diversity.#ftm", 
+            "diversity.#lgbtq", 
+            "diversity.#transsupporter", 
+            "diversity.#p2", 
+            "diversity.#republicans", 
+            "diversity.#lgbt", 
+            "diversity.#letmypeoplepee", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#trustthemtoknowwheretheyneedtogo", 
+            "diversity.#sweden", 
+            "diversity.#transmilitary", 
+            "diversity.#transrights", 
+            "diversity.#stophateintexas", 
+            "diversity.#ally", 
+            "diversity.#occupottyhttp", 
+            "diversity.#transandproud", 
+            "diversity.#tdov", 
+            "diversity.#eng178"
+        ], 
+        "name_frequency": 4604, 
+        "associated_name_frequencies": [
+            41.0, 
+            4.0, 
+            1.0, 
+            12.0, 
+            4.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            3.0, 
+            113.0, 
+            2500.0, 
+            17.0, 
+            1.0, 
+            4.0, 
+            1.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gop", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 46, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#_michaelhughes1", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#legalizetrans", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 98, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tdov2015", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tdov2016", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#1896", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#mtf", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transphobia", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#bathroommyth"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sweden", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transawarness", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 22, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#regpf0lls05f", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#brucejenner", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gendernoncomforming", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#veteran", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#mnleg", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#socialinjustice", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#illgowit", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgtbq", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#flushtransphobia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transgenderproblems", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#alexanderdean", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#figurativesculpture", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#transactivist", 
+            "diversity.#artactivism", 
+            "diversity.#wildacresclay"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#boycottjax", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#elieelia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#kentucky", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#besafe", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#humanrights", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#c279", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#transrights", 
+            "diversity.#lgbtqia", 
+            "diversity.#equality"
+        ], 
+        "name_frequency": 43, 
+        "associated_name_frequencies": [
+            7.0, 
+            1.0, 
+            15.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#14", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tran", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gaiamtv", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sgfvoteno", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#markyourterritory", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sdleg", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#targetboycott", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transgenderrights", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#targetboycott"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#schoolbullies", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtiq", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transmilitary", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tonightly", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#instagram", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#donaldtrump", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 17, 
+        "associated_name_frequencies": [
+            17.0
+        ]
+    }, 
+    {
+        "name": "diversity.#notthatcomplicated", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ios", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transgenderwoman", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nchb2", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transliesmatter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whosindanger", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#psychic", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transwomenarewomen", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#love", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sf1543", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 97, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transrights", 
+        "degree": 6, 
+        "associated_names": [
+            "diversity.#trashrights", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#flushtransphobia", 
+            "diversity.#humanrights", 
+            "diversity.#schoolbullies", 
+            "diversity.#transgender"
+        ], 
+        "name_frequency": 82, 
+        "associated_name_frequencies": [
+            1.0, 
+            8.0, 
+            1.0, 
+            4.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pottypolice", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nohateinmystate", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 25, 
+        "associated_name_frequencies": [
+            14.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#safe", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroom", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 25, 
+        "associated_name_frequencies": [
+            21.0
+        ]
+    }, 
+    {
+        "name": "diversity.#shameonnc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 13, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#houequality", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nogenderpolicing", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nobathroombill", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#doesthisfacelooklikeitbelongsinaladiesroom", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#familiesfirstab", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transneedsmatter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hashtag", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroomselfie", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ocupotty", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#translivesmatter"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#everyone", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#satire", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#protectyourself", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dumblaw", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#abtrans", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#cdntrans", 
+            "diversity.#abfaith"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tennessee", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thepinkpanthersmovement", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fatlivesmatter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#jussaying", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transliberationnow", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transmen", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#2", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 24, 
+        "associated_name_frequencies": [
+            23.0
+        ]
+    }, 
+    {
+        "name": "diversity.#1", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 26, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroombill", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 32, 
+        "associated_name_frequencies": [
+            8.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transphobic", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 17, 
+        "associated_name_frequencies": [
+            16.0
+        ]
+    }, 
+    {
+        "name": "diversity.#", 
+        "degree": 4, 
+        "associated_names": [
+            "diversity.#lgbt", 
+            "diversity.#hb583", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#"
+        ], 
+        "name_frequency": 137, 
+        "associated_name_frequencies": [
+            15.0, 
+            4.0, 
+            7.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#feelthebern", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#era", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gayolympics", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ijustwantedtopee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#warriorsforchange", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whatsourtoughestobstacle", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wn2p", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#epicfail", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#i", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#mccrory", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#transrights"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#privacyfornoone", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#f", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sthash", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 15, 
+        "associated_name_frequencies": [
+            14.0
+        ]
+    }, 
+    {
+        "name": "diversity.#allyship", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hb2", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#lgbtq", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 102, 
+        "associated_name_frequencies": [
+            1.0, 
+            22.0
+        ]
+    }, 
+    {
+        "name": "diversity.#translife", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#amidoingitright", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#maine", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#readingmaterials", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stophateintexas", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tweets", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sloqueremosmear", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#_", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gayography", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#robotliberation", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#flushdiscrimination", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#twoc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtrights", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#letthempee", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#doingitright", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ace", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wejustdifferent", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroomsitin", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tbt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wicked", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transhealthmatters", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nvleg", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#ab375"
+        ], 
+        "name_frequency": 82, 
+        "associated_name_frequencies": [
+            32.0, 
+            9.0
+        ]
+    }, 
+    {
+        "name": "diversity.#southdakota", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": [
+            13.0
+        ]
+    }, 
+    {
+        "name": "diversity.#proudtransman", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtfams", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#mnbathroombill", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#essay", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#endthehate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#broadside", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ottcity", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#cltequality", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ally"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#news", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#michaelhughes", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wejustneedtodrive", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dogecoin", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroom_bill", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtfamilies", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tedcruz", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 21, 
+        "associated_name_frequencies": [
+            20.0
+        ]
+    }, 
+    {
+        "name": "diversity.#noloo4u", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#standwithtarget", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nonbinarygender", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#meded"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#beanactiveally", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#paradeoffools", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transman", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#transwoman", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 33, 
+        "associated_name_frequencies": [
+            2.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thegword", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#eowwcmj3fsmvmprw", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#weneedtopass", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transissues", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#queer", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#equality"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gender", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#sociology", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 14, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#america", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#plettputmehere"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            10.0
+        ]
+    }, 
+    {
+        "name": "diversity.#vetohb1008", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#selfcare", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#protectallhoustonians", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#godislove", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ghc15", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ally", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#amidoingitright", 
+            "diversity.#thegword"
+        ], 
+        "name_frequency": 15, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#seattle", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtqia", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#boycotttarget", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#txlege", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 24, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#unitebiue", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#justneedtoadjustmyunderwear", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#peequality", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#noonab375", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transbathroombills", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#genders", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#twoelephantsonecup", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transscripts", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#consciousmedia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#twitter", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#politics"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fuckoff", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#occupotty"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#clpp2015", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stillwaiting", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fighttransphobia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#queermafia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#socialmedia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transvisibility", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#supporttransyouth"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transpeoplearepeople", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#poll", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 22, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dresscodepm", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#besafe"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#id2p", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#occupottyhttp", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#canqueer", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#c279"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wejustwant", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pinkpanthersmovement", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#peein", 
+            "diversity.#peeinprotest"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ferguson", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gopwantswar", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nomoretransliveslost", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 15, 
+        "associated_name_frequencies": [
+            15.0
+        ]
+    }, 
+    {
+        "name": "diversity.#plettputme", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#orwell", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#endallsegregation", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whatmatters", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#priorities", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nyc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#eastereggs", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transformationtuesday", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nonbinary", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transjusticenow", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#noh8", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#onlylove", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#transgender"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#macmccuskerceramics", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#california", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 31, 
+        "associated_name_frequencies": [
+            31.0
+        ]
+    }, 
+    {
+        "name": "diversity.#houstonfail", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#texas", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#trans"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#passgendanow", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#rapalbumsthatcausedslavery", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#smartnews", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#muslimsarenottheenemy", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroombillproblems", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#alliesoflbgt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#toilet", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wheredowebelong", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#trans", 
+        "degree": 7, 
+        "associated_names": [
+            "diversity.#ftm", 
+            "diversity.#ohio", 
+            "diversity.#lgbt", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#humanrights", 
+            "diversity.#gender", 
+            "diversity.#trans"
+        ], 
+        "name_frequency": 384, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            6.0, 
+            183.0, 
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#goodjobamerica", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pinkpanthers", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dignity", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#translifematters", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#standtogether"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#marymartha", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#norepealsgf", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transactivist", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#macmccuskerceramics"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#artactivism", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#megamouthtweets", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nfl", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transactivism", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nc", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#transgenderrights", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wewillnotbesilenced", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#translivesmatter"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transally", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#zdrdr0u7pwioz72c", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#qwoc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#montelwilliams", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#titleix", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transgenderdayofvisibility", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#jonstewart", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtmatters", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#equalbathroomaccess", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#equality", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#cdndiversity", 
+            "diversity.#lgbtq", 
+            "diversity.#discrimination", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#noh8"
+        ], 
+        "name_frequency": 38, 
+        "associated_name_frequencies": [
+            1.0, 
+            9.0, 
+            1.0, 
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtqally", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thestrugglecontinues", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fucktedcruz", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#transrightsarehumanrights"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#weexist", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#humanrightsabuse", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#mpsa16", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#enddvmurders", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transandproud", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#stopthehate", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 30, 
+        "associated_name_frequencies": [
+            22.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#listenup", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#inclusive", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#diversity", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#youmissedthepoint", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tdov", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tdor", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#trendingtuesday", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#flavnt"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#englishmuffin", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#springfieldmo", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nlpoli", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dancingman", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#toiletsforall", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fwisd", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#soap", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#beheard", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fearmonger", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 18, 
+        "associated_name_frequencies": [
+            18.0
+        ]
+    }, 
+    {
+        "name": "diversity.#iwillgowithyou", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gocon2015", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#valkyrieskiss", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sjr39", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#bathroomlaw"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transgenders", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#discriminatory", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#retweet", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bullies", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#commonsense", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#safetopee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#peeinpeace", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#eng178", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#growinguptrans", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#notboycottingtarget", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#rnc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sharedstruggle", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#stoptranshysteria", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#smh", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#glbt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pinkdayextra", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transgender", 
+        "degree": 14, 
+        "associated_names": [
+            "diversity.#politics", 
+            "diversity.#stupidlaws", 
+            "diversity.#lgbtq", 
+            "diversity.#discrimination", 
+            "diversity.#lgbt", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#rights", 
+            "diversity.#translivesmatter", 
+            "diversity.#1", 
+            "diversity.#translife", 
+            "diversity.#canqueer", 
+            "diversity.#trans", 
+            "diversity.#glbt", 
+            "diversity.#conservativelogic"
+        ], 
+        "name_frequency": 456, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            37.0, 
+            181.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            11.0, 
+            11.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#genderqueer", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#onestruggle", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#fightingforourlives"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#getoverit", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gaythiest", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#patmccrory", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#protectyourrights", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pjnet", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#houston", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#ghc15"
+        ], 
+        "name_frequency": 32, 
+        "associated_name_frequencies": [
+            2.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bathroombills", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pride", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#plettputtmehere", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#safebathroomsdc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wrongsideofhistory", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#conservativelogic", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#getyourfactsstraight", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#laurencielo", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#repealhb2", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#girlslikeus"
+        ], 
+        "name_frequency": 14, 
+        "associated_name_frequencies": [
+            5.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lillyfortarget", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transawareness", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#translivesmatter"
+        ], 
+        "name_frequency": 2434, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#goodlucklouis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#yellowdiscipline", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#minnesota", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tpoc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#standtogether", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#cltcc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#evolve", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#genderodyssey", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#weneedtopee", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#occupotty"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transchampion", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#jaxhro", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#occupythebathrooms"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hashtags", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#weak", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fckh8", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#inmtlnews", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transtakeover", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#uwtvc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fail", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#artilesputmehere", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 15, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hf3396", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#mnbathroombill"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#guns", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gaypride", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbtnews"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#formationworldtour", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#protectourtranskids", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ableg", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#transrightsmatter"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#myobb", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 11, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transawarenessmonth", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#transhealthmatters"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tn", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#translives", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wildacresclay", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transpobic", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transrightsarehumanrights", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#transliberationnow"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#genducate", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtbusiness", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#meded", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hepeesshepeesnoidneeded", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#virginia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ab375", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wejustneedtopee", 
+            "diversity.#nvleg"
+        ], 
+        "name_frequency": 84, 
+        "associated_name_frequencies": [
+            23.0, 
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hatestate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbtq"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ksleg", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ksed"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fightforyourrights", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#transgender"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#genderfluidproblems", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#moleg", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#photography", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#f"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#girlslikeus", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#guyslikeus", 
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 54, 
+        "associated_name_frequencies": [
+            1.0, 
+            21.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ivereallygottopee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroomgate2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transtastic", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#familytranscends", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#meerkat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#isnttwitterfun"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#knowhowfaristoofar", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wejustneedtopee"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }
+]

@@ -1,0 +1,408 @@
+[
+    {
+        "name": "diversity.", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 102, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#grimm", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#seedifferent", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#discriminating", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#school"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtrights", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#teaparty", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtq", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#seedifferent", 
+            "diversity.#ageofconsent"
+        ], 
+        "name_frequency": 15, 
+        "associated_name_frequencies": [
+            1.0, 
+            14.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bathroombill", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transfixednyc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transgender", 
+        "degree": 7, 
+        "associated_names": [
+            "diversity.#discriminating", 
+            "diversity.#gavingrimm", 
+            "diversity.#glbt", 
+            "diversity.#case", 
+            "diversity.#school", 
+            "diversity.#teen", 
+            "diversity.#landmark"
+        ], 
+        "name_frequency": 34, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transgendernews", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#trans"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gavingrimm", 
+        "degree": 13, 
+        "associated_names": [
+            "diversity.#discriminating", 
+            "diversity.#lgbtrights", 
+            "diversity.#lgbtq", 
+            "diversity.#transgender", 
+            "diversity.#va", 
+            "diversity.#case", 
+            "diversity.#gloucester", 
+            "diversity.#transrights", 
+            "diversity.#hb2", 
+            "diversity.#ageofconsent", 
+            "diversity.#school", 
+            "diversity.#nc", 
+            "diversity.#landmark"
+        ], 
+        "name_frequency": 25, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            14.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            14.0, 
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tlot", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#teaparty"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tbt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 72, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#translivesmatter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#va", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#lgbtrights", 
+            "diversity.#transrights"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#news", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#glbt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#case", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#discriminating", 
+            "diversity.#school"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transgenderteen", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#gavingrimm"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gloucester", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#lgbtrights", 
+            "diversity.#va", 
+            "diversity.#transrights"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#diversity", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#seedifferent", 
+            "diversity.#lgbtq"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transrights", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbtrights"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hb2", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ageofconsent", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 14, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#mcggov", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#4thcircuit", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#transgender", 
+            "diversity.#gavingrimm"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#virginia", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#news"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tcot", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#teaparty", 
+            "diversity.#tlot"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#school", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#teen", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#discriminating", 
+            "diversity.#gavingrimm", 
+            "diversity.#case", 
+            "diversity.#school", 
+            "diversity.#landmark"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#nc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#misafeed", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#trans", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#seedifferent", 
+            "diversity.#lgbtq", 
+            "diversity.#transfixednyc", 
+            "diversity.#diversity", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 17, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#landmark", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#discriminating", 
+            "diversity.#case", 
+            "diversity.#school"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbt", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#news", 
+            "diversity.#virginia"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }
+]

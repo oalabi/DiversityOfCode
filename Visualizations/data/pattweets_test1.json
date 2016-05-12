@@ -1,0 +1,5031 @@
+[
+    {
+        "name": "diversity.#truth", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#potus", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#potus"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#medicalcannabis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#schoolingmccrory", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#you"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#keepncsafe", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#keepncsafe"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#boycottnc", 
+        "degree": 4, 
+        "associated_names": [
+            "diversity.#boycottnc", 
+            "diversity.#boycottms", 
+            "diversity.#ncpol", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 27, 
+        "associated_name_frequencies": [
+            14.0, 
+            1.0, 
+            3.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#rock", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#repeal", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#quietspringinnc", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearenotthis", 
+        "degree": 14, 
+        "associated_names": [
+            "diversity.#boycottnc", 
+            "diversity.#wearenotthis", 
+            "diversity.#onetermgovernor", 
+            "diversity.#stopthestupid", 
+            "diversity.#storylink", 
+            "diversity.#lgbt", 
+            "diversity.#angryvoter", 
+            "diversity.#translivesmatter", 
+            "diversity.#", 
+            "diversity.#hb2", 
+            "diversity.#hate", 
+            "diversity.#noh8inmyst8", 
+            "diversity.#nc", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 219, 
+        "associated_name_frequencies": [
+            2.0, 
+            39.0, 
+            4.0, 
+            5.0, 
+            1.0, 
+            3.0, 
+            2.0, 
+            1.0, 
+            3.0, 
+            19.0, 
+            10.0, 
+            1.0, 
+            1.0, 
+            29.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dodging", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#thisisnotus", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#stoptransphobia", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#stoptransphobia"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#repealhb2now", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#avlnews", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#visitnc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#miavscha"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#foxnews", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#foxnews"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#enoughisenough", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#enoughisenough"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tcot", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 28, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#harryhoudini", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#harryhoudini"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#corruption", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#paytoplay", 
+            "diversity.#northcarolina"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            5.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#39", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#39"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#liberal", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#politics", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#repealhb2", 
+            "diversity.#dem"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#optrollfortrannies", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#optrollfortrannies"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#notmeus", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#notmeus"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#onetermgovernor", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#youcanpeewithme", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#youcanpeewithme"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#christianfundamentalistzombies", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#christianfundamentalistzombies"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncteacherpay", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncteacherpay"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#teaparty", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#frustrating", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#slippery"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncfef", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncfef"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#kaydaly", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#readyforroy", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#readyforroy"
+        ], 
+        "name_frequency": 36, 
+        "associated_name_frequencies": [
+            31.0
+        ]
+    }, 
+    {
+        "name": "diversity.#trustblackwomen", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#formation"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncga", 
+        "degree": 10, 
+        "associated_names": [
+            "diversity.#ncga", 
+            "diversity.#ncpol", 
+            "diversity.#ncjobs", 
+            "diversity.#seanc2008", 
+            "diversity.#notlikely", 
+            "diversity.#inners", 
+            "diversity.#onetermpat", 
+            "diversity.#charobs", 
+            "diversity.#", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 355, 
+        "associated_name_frequencies": [
+            25.0, 
+            45.0, 
+            1.0, 
+            6.0, 
+            8.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#faketabloidfacts", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncpol"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#patmccroryissatan", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#patmccroryissatan"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#407a5b1c793a", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#407a5b1c793a"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stopthestupid", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#recallgovmccrory", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#proud", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#proud"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#kettleblack", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#kettleblack"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#facts", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#facts"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tntvote", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 43, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tax", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#actonclimate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#actonclimate"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pottyally", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#youcanpeewithme"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transisbeautiful", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#northcarolina"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#voteoutdouchebags", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#voteoutdouchebags"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lookatnumbersholistic", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#royisright", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nobodywinsunlesseverybodywins", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nobodywinsunlesseverybodywins"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#election2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ncboots", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#leadright2016"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#jordan", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fueracintra", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#usa", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#northcarolina", 
+            "diversity.#forbes", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#flushpatmccrory", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#notbigotry", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#notbigotry"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hatemongering", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearenotthis"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gay", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#gay"
+        ], 
+        "name_frequency": 19, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#packituppat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#readyforroy"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#asheville", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#asheville"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#peeinginmypantswaitinginthequeueforthebathroom", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#peeinginmypantswaitinginthequeueforthebathroom"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#antilgbt", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#antilgbt", 
+            "diversity.#bathroomlaw"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#shopnc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#shopnc"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#education", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncpol"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#toolittletoolate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#toolittletoolate"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#climatechange", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#climatechange"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#zodiacted", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#zodiacted"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#opendebate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nc"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#health", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#health"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#income", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#medicaid", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncga"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gopequalsfail", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lesbian", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lesbian"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncgovernor", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#anonymous", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#uneducated", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dejavu", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#makingabigdealoutofnothing"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hitler", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#truthhurts", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#truthhurts"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearesothis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hrc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#votehimout", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#votehimout"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#yuck", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#yuck"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#carolina_comeback", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbti", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bgs2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#50thineverything", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#budget", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#budget"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ineveryell", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#itsonyou"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncgov", 
+        "degree": 12, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#readyforroy", 
+            "diversity.#ncga", 
+            "diversity.#ncgovernor", 
+            "diversity.#bgs2016", 
+            "diversity.#ncgov", 
+            "diversity.#leadership", 
+            "diversity.#ncpol", 
+            "diversity.#hb2", 
+            "diversity.#ncdeputies", 
+            "diversity.#repealhb2", 
+            "diversity.#768f2d741399"
+        ], 
+        "name_frequency": 288, 
+        "associated_name_frequencies": [
+            3.0, 
+            3.0, 
+            122.0, 
+            3.0, 
+            1.0, 
+            57.0, 
+            1.0, 
+            8.0, 
+            3.0, 
+            1.0, 
+            2.0, 
+            16.0
+        ]
+    }, 
+    {
+        "name": "diversity.#undolgbtbill", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lovewins", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lovewins"
+        ], 
+        "name_frequency": 14, 
+        "associated_name_frequencies": [
+            11.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncgop", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#ncga", 
+            "diversity.#ncgop", 
+            "diversity.#ncpol", 
+            "diversity.#patmccrorync", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 20, 
+        "associated_name_frequencies": [
+            2.0, 
+            3.0, 
+            6.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtq", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#lgbtq", 
+            "diversity.#lgbt", 
+            "diversity.#enough"
+        ], 
+        "name_frequency": 13, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#asinine", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#jesushates", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#50thineverything"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncbeermonth", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncbeermonth"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#uniteblue", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#uniteblue"
+        ], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#growup", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#growup"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#2a", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#getyourshttogetther", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#getyourshttogetther"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#storylink", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#knowhertruths", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hypocrite", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hypocrite"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#momof3girls", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#votethemout", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#justsaying", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#justsaying"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncstrong", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#charlotte", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#charlotte", 
+            "diversity.#northcarolina"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            3.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#votingrights", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bigotryisbadforbusiness", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#transvestitecrapper", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#transvestitecrapper"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#unintendedconsequences", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearenotthis"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#amioraminot", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#amioraminot"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#via", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#via", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            3.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtuk", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbtuk"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#end", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#end"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#paytoplay", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bitnaija", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#bitnaija"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pat"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#northcarolina", 
+        "degree": 15, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#lgbtq", 
+            "diversity.#northcarolina", 
+            "diversity.#mississippi", 
+            "diversity.#lgbt", 
+            "diversity.#gop", 
+            "diversity.#onetermpat", 
+            "diversity.#transphobic", 
+            "diversity.#hb2", 
+            "diversity.#lgbtqia", 
+            "diversity.#noh8", 
+            "diversity.#voterid", 
+            "diversity.#hatebill2", 
+            "diversity.#repealhb2", 
+            "diversity.#nomeningirlsshowers"
+        ], 
+        "name_frequency": 167, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            14.0, 
+            1.0, 
+            8.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            44.0, 
+            5.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            47.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#smokescreen", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#9ivk", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#9ivk"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#leadership", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#leadership"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#boycottnorthcarolina", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#boycottnorthcarolina"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtvets", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbtvets"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#governor", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#votingrights"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#allpolitics", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#affordablehousing", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncga"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pantsonfire", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pantsonfire"
+        ], 
+        "name_frequency": 90, 
+        "associated_name_frequencies": [
+            90.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ngca", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#mississippi", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#breaking", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#boycottnc"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#comonsense", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#comonsense"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#protest", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#consnc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncpol"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#resign", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#resign", 
+            "diversity.#clueless"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#discrimination", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#lgbtq"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#alec", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#corruption"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#kochs", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#kochs"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.@patmccrorync", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.@patmccrorync"
+        ], 
+        "name_frequency": 42, 
+        "associated_name_frequencies": [
+            42.0
+        ]
+    }, 
+    {
+        "name": "diversity.#cruzcrew", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#tedcruz"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#evilgop", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stophurtingnc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#legacy", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#legacy"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#cltsgotalot", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#republicans", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ixzz475haojr8", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#notolls", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#doyourjob", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#gopequalsfail"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbt", 
+        "degree": 9, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#lgbt", 
+            "diversity.#2little2late", 
+            "diversity.#loudandproud", 
+            "diversity.#ncpol", 
+            "diversity.#hb2", 
+            "diversity.#lgbtrights", 
+            "diversity.#p2", 
+            "diversity.#bs"
+        ], 
+        "name_frequency": 123, 
+        "associated_name_frequencies": [
+            3.0, 
+            29.0, 
+            1.0, 
+            2.0, 
+            2.0, 
+            14.0, 
+            2.0, 
+            5.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#cancelthecontract", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#i77"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#itsallbeendownhill", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#neverserved", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#veterans"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            12.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncop", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncop"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#2little2late", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#somethingwrongnc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#storify", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#durham", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#durham"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtnews", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbtnews"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearebetterthanthis", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearebetterthanthis"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fracking", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncpol"
+        ], 
+        "name_frequency": 18, 
+        "associated_name_frequencies": [
+            17.0
+        ]
+    }, 
+    {
+        "name": "diversity.#doublestandard", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#boycottms", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#notaboutthebathrooms", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#rock"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transgender", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#transgender", 
+            "diversity.#nc", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            5.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#salestax", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lookatnumbersholistic"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#farmers", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bigotry", 
+        "degree": 4, 
+        "associated_names": [
+            "diversity.#discrimination", 
+            "diversity.#bigotry", 
+            "diversity.#noh8", 
+            "diversity.#nc"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gawker", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#gawker"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#megankelley", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#megankelley"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#assh0le", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#assh0le"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#homophobes", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#uneducated"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fallfromgrace", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#fallfromgrace"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#makingabigdealoutofnothing", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#safety1st", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#safety1st"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#angryelves", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#angryelves"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#angryvoter", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#childmolester", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#clue", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 11, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#loudandproud", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nooneisfooledanymore", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#coward", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#itstheword", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#itstheword"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncpol", 
+        "degree": 15, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#tcot", 
+            "diversity.#ncga", 
+            "diversity.#ncgov", 
+            "diversity.#ncgop", 
+            "diversity.#consnc", 
+            "diversity.#notolls", 
+            "diversity.#ncpol", 
+            "diversity.#gop", 
+            "diversity.#onetermpat", 
+            "diversity.#", 
+            "diversity.#hb2", 
+            "diversity.#keepitintheground", 
+            "diversity.#nc", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 621, 
+        "associated_name_frequencies": [
+            5.0, 
+            7.0, 
+            66.0, 
+            63.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            101.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            56.0, 
+            1.0, 
+            4.0, 
+            12.0
+        ]
+    }, 
+    {
+        "name": "diversity.#csa", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#csa"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#equalrights", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#assholes", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#assholes"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ccot", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#brissue", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wejustneedtopee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#jesus", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#jesus"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#topprog", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tennessee", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#rolleyes", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sudafed4votes", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#recallgovmccrory"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#patriots", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#getaclue", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#getaclue"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncjobs", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#thisisnotwhoweare", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#thisisnotwhoweare"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#koch", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#koch"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#trans", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#gay", 
+            "diversity.#trans", 
+            "diversity.#stoptheharm", 
+            "diversity.#hb2", 
+            "diversity.#noh8"
+        ], 
+        "name_frequency": 56, 
+        "associated_name_frequencies": [
+            10.0, 
+            18.0, 
+            1.0, 
+            3.0, 
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#makencgreatagain", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#makencgreatagain"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtlaw", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#undolgbtbill"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncbigot", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncbigot"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#equality4all", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#philberger", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#patmccrorync", 
+        "degree": 6, 
+        "associated_names": [
+            "diversity.#foxnews", 
+            "diversity.#somethingwrongnc", 
+            "diversity.#patmccrorync", 
+            "diversity.#", 
+            "diversity.#hb2", 
+            "diversity.#hatebill2"
+        ], 
+        "name_frequency": 28, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            15.0, 
+            1.0, 
+            2.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#checkssky4swine", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#checkssky4swine"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pat_mccrory", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nc"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#solarpower", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#gogreen2016"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#paranoidmuch", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#translivesmatter", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#translivesmatter", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            4.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gop", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#lgbt", 
+            "diversity.#gop", 
+            "diversity.#nohateinmystate", 
+            "diversity.#hb2", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 48, 
+        "associated_name_frequencies": [
+            4.0, 
+            20.0, 
+            1.0, 
+            15.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gov", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pat"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#seanc2008", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#seanc2008"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#uglyshitstainpat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#uglyshitstainpat"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#banwhitemenfromrestrooms", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#banwhitemenfromrestrooms"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#peepeepat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#peepeepat"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#3fea5fd51399", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#3fea5fd51399"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#mtp", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#olmstead", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncga"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#notlikely", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fluff", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gogreen2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hhs", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncga"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#boycottaurobindo", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#boycottaurobindo"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#walkingdead", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 25, 
+        "associated_name_frequencies": [
+            25.0
+        ]
+    }, 
+    {
+        "name": "diversity.#patroast", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#patroast"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#quietspringinnc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#inners", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nevercruzcar", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#idiot", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#idiot"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pckills", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pckills"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#assclown", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#assclown"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#trump", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#trump"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#flushhb2", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#flushhb2", 
+            "diversity.#wearejordan"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#nicetry", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nicetry"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lyinted", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lyinted"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#warenotthis", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#northcarolina"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sick", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#sick"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncaa", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#bathroombill"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#shhhdonttellbut", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#space", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#astronomy"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#nchb2", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nchb2"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#onetermpat", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#onetermpat", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 41, 
+        "associated_name_frequencies": [
+            6.0, 
+            24.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#11curvzniiqg", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#11curvzniiqg"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lifegoals", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nohateinmystate", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#nohateinmystate", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stoptheharm", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#1237", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#1237"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wwjd", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#forbes", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#you", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#antilgbtq", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#trans"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bathroompolice", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#restorethevra", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#restorethevra"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#slippery", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#indigentdefense", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#indigentdefense"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tytlive", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#tytlive"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hater", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#flushpatmccrory"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#charobs", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#ncgov", 
+            "diversity.#noh8"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#2", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#1", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#2", 
+            "diversity.#1"
+        ], 
+        "name_frequency": 115, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bathroombill", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#liberal", 
+            "diversity.#trans", 
+            "diversity.#bathroombill"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transphobic", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#47traitors", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#47traitors"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#", 
+            "diversity.#votingmatters"
+        ], 
+        "name_frequency": 94, 
+        "associated_name_frequencies": [
+            69.0, 
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#recallpatmccrory", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#recallpatmccrory"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sb50", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#sb50"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#obama", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#classless", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#votehimout"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ignorant", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ignorant"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#carolinasetback", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#carolinasetback"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ztsone0ys05w", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ztsone0ys05w"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#mccrory", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#n", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#vote", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hb2", 
+        "degree": 33, 
+        "associated_names": [
+            "diversity.#keepncsafe", 
+            "diversity.#wearenotthis", 
+            "diversity.#thisisnotus", 
+            "diversity.#ncga", 
+            "diversity.#stopthestupid", 
+            "diversity.#ncgov", 
+            "diversity.#lgbtq", 
+            "diversity.#northcarolina", 
+            "diversity.#lgbt", 
+            "diversity.#transgender", 
+            "diversity.#ncpol", 
+            "diversity.#equalrights", 
+            "diversity.#trans", 
+            "diversity.#quietspringinnc", 
+            "diversity.#onetermpat", 
+            "diversity.#nohateinmystate", 
+            "diversity.#wwjd", 
+            "diversity.#1", 
+            "diversity.#bathroombill", 
+            "diversity.#", 
+            "diversity.#hb2", 
+            "diversity.#hastert", 
+            "diversity.#respectallpeople", 
+            "diversity.#whcd", 
+            "diversity.#thankspat", 
+            "diversity.#equality", 
+            "diversity.#standwithnc", 
+            "diversity.#quietspring", 
+            "diversity.#lemming", 
+            "diversity.#repealhb2", 
+            "diversity.#special", 
+            "diversity.#dem", 
+            "diversity.#reapwhatyousow"
+        ], 
+        "name_frequency": 2680, 
+        "associated_name_frequencies": [
+            1.0, 
+            23.0, 
+            1.0, 
+            17.0, 
+            1.0, 
+            2.0, 
+            4.0, 
+            1.0, 
+            4.0, 
+            1.0, 
+            26.0, 
+            1.0, 
+            8.0, 
+            2.0, 
+            4.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            5.0, 
+            1936.0, 
+            2.0, 
+            5.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            4.0, 
+            1.0, 
+            1.0, 
+            199.0, 
+            2.0, 
+            9.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#s", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#s"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#amendment1", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#1termdan", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#qc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hatebill", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#watchwbtv", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#watchwbtv"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#meckgop", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncpol"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#goperverts", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#bathroompolice"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bathroompatrol", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#bathroompatrol"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#technology", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#technology"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#actualpredator", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#actualpredator"
+        ], 
+        "name_frequency": 21, 
+        "associated_name_frequencies": [
+            21.0
+        ]
+    }, 
+    {
+        "name": "diversity.#leadright2016", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#hb2", 
+            "diversity.#leadright2016"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            1.0, 
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#basiccivics", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#votersuppression"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtrights", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#caprimary", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ainf", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#tntvote"
+        ], 
+        "name_frequency": 43, 
+        "associated_name_frequencies": [
+            43.0
+        ]
+    }, 
+    {
+        "name": "diversity.#trainwreck2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#northcarolinians", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearenotthis"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#istandwithpat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#istandwithpat"
+        ], 
+        "name_frequency": 50, 
+        "associated_name_frequencies": [
+            50.0
+        ]
+    }, 
+    {
+        "name": "diversity.#7e402d7e1399", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#7e402d7e1399"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pjnet", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#cruzcrew", 
+            "diversity.#lnyhbt"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#neocon", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#neocon"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bathroomgraffitinc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#decisionday", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#news", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hastert", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 14, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#votingmatters", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#collapse", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#iran", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#obama"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tedcruz", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#kellyfile", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#kellyfile"
+        ], 
+        "name_frequency": 222, 
+        "associated_name_frequencies": [
+            218.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fu", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#fu"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hatecosts", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#respectallpeople", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#misleading", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#queer", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbtq"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#realnatives", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#realnatives"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gs", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#gs"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#now", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#rednecktvshows", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#northcarolina"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lies", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearenotthis"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbtqia", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbtqia"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#1termer", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#1termer"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hahahaha", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hahahaha"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#contracorrupcion", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#fueracintra"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#boycotttarget", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#ncpol", 
+            "diversity.#hb2", 
+            "diversity.#boycotttarget"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0, 
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#veterans", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#veterans"
+        ], 
+        "name_frequency": 13, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lnyhbt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#astronomy", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#there", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#there"
+        ], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": [
+            8.0
+        ]
+    }, 
+    {
+        "name": "diversity.#disgraceful", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#disgraceful"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#flintwatercrisis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ncstate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ccot"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#miavscha", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bathroomlaw", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ncbornandraised", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#momof3girls"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pottypatrol", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#christian", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#patriots"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#up", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#up"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ilk", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#iminitforme", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wearesothis", 
+            "diversity.#iminitforme"
+        ], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": [
+            3.0, 
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#keepitintheground", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#yamamoto", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wideni77", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wideni77"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#362c86e41399", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#362c86e41399"
+        ], 
+        "name_frequency": 48, 
+        "associated_name_frequencies": [
+            48.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thatsall", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#peepartchecker", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearenotthis"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#chicago", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#chicago"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bravo", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#bravo"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hitler"
+        ], 
+        "name_frequency": 11, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dropoutted", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#dropoutcruz"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#library", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#republicreepers", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dropoutcruz", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nevercruzcar"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tlot", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#noh8", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#lgbt", 
+            "diversity.#wejustneedtopee", 
+            "diversity.#noh8"
+        ], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": [
+            6.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#shameful", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#shameful"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#beresponsible", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#beresponsible"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#isawintomyfutureand", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whcd", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lvn", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lvn"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bigot", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#bigot", 
+            "diversity.#hatebill2"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            2.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#takeaknee4lgbt", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#publiced", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncga"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#1termpat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#1termdan"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#laughable", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#laughable"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#finance", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#noh8inmyst8", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#noh8inmyst8"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#votersuppression", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#votersuppression"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#voterid", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#unc2020", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#decisionday"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gameofthrones", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#gameofthrones"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dukepuppett", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#flintwatercrisis"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sad", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nc", 
+        "degree": 8, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#governor", 
+            "diversity.#lgbt", 
+            "diversity.#gop", 
+            "diversity.#vote", 
+            "diversity.#hb2", 
+            "diversity.#nc", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 85, 
+        "associated_name_frequencies": [
+            1.0, 
+            8.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            6.0, 
+            9.0, 
+            9.0
+        ]
+    }, 
+    {
+        "name": "diversity.#democrats", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#paranoidmuch"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thankspat", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#adamandevenotsissysteve", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#adamandevenotsissysteve"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#chickfila", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#chickfila"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#toiletpolice", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#toiletpolice"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#factsnotfear", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#north", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#carolina"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#governing", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#extreme", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#extreme"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hatebill2", 
+        "degree": 4, 
+        "associated_names": [
+            "diversity.#hb2", 
+            "diversity.#pottypatrol", 
+            "diversity.#hatebill2", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 56, 
+        "associated_name_frequencies": [
+            35.0, 
+            1.0, 
+            9.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#equality", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#newbathroomrules", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#newbathroomrules"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hemp", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#medicalcannabis"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#grow", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#coalash", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#coalash"
+        ], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": [
+            16.0
+        ]
+    }, 
+    {
+        "name": "diversity.#areyoulistening", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearenotthis"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#standwithnc", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#hb2", 
+            "diversity.#standwithnc"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            2.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncgovenor", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#shameonyou", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#factsnotfear", 
+            "diversity.#shameonyou"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            3.0, 
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#byetarget", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#noh8inmyst8"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#megynkelly", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#sad"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncdeputies", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#asshat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#asshat"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#quietspring", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whatmakespeoplesogreat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#whatmakespeoplesogreat"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#abc11", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#abc11"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            7.0
+        ]
+    }, 
+    {
+        "name": "diversity.#4moreyears", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#4moreyears"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#jesuswept", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#p2", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#boycottnc", 
+            "diversity.#tcot", 
+            "diversity.#lgbt", 
+            "diversity.#topprog", 
+            "diversity.#tlot"
+        ], 
+        "name_frequency": 93, 
+        "associated_name_frequencies": [
+            1.0, 
+            15.0, 
+            2.0, 
+            5.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#media", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#media"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#avlgov", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ccw", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#statesrights"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#syrian", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#jordan"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#homophobia", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#commonsense", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#commonsense"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stopliberals", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#stopliberals"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#i77", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dennishastert", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lemming", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#clueless", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#44", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#44"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#glbt", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#glbt"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#badchristian", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#jesuswept"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fools", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#fools"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bigots", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#nc", 
+            "diversity.#bigots"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            5.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#patmccrory", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#northcarolina", 
+            "diversity.#repealhb2", 
+            "diversity.#fail"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            2.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#nced", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nced"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#nba", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#northcarolina"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#43766b513999", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#kilo", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#kilo"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dennyhastert", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#bathroombill"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#syrianrefugees", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#syrianrefugees"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#bs", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lame", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lame"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#repealhb2", 
+        "degree": 12, 
+        "associated_names": [
+            "diversity.#wearenotthis", 
+            "diversity.#ncga", 
+            "diversity.#northcarolina", 
+            "diversity.#lgbt", 
+            "diversity.#ncpol", 
+            "diversity.#mtp", 
+            "diversity.#quietspringinnc", 
+            "diversity.#nohateinmystate", 
+            "diversity.#hb2", 
+            "diversity.#now", 
+            "diversity.#nc", 
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1517, 
+        "associated_name_frequencies": [
+            25.0, 
+            2.0, 
+            4.0, 
+            3.0, 
+            9.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            8.0, 
+            1.0, 
+            1.0, 
+            1062.0
+        ]
+    }, 
+    {
+        "name": "diversity.#racefueltherapy", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#racefueltherapy"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#partisanpolitics", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#statesrights", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#formation", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#beyonce", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#repealhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#patmccrorygendercheck", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#patmccrorygendercheck"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#roycooper2016", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#roycooper2016"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#antitrans", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#kellogg", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#consider", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#consider"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#768f2d741399", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nomeningirlsshowers", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#morningjoe", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#morningjoe"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fail", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lbgtqr", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lbgtqr"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sociopath", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#boycottnorthcarolina"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#business", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#finance", 
+            "diversity.#marketing"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            1.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#itsonyou", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wearejordan", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gaypride", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncforhb2", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncforhb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#carolina", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#special", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#keeptalking", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#keeptalking"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dem", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 26, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#marketing", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#zika", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#zika"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#agendadrivenhypocrites", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#agendadrivenhypocrites"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#calumny", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#shitizensunited", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#shitizensunited"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#enough", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#republican", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#northcarolina", 
+            "diversity.#hastert"
+        ], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": [
+            2.0, 
+            12.0
+        ]
+    }, 
+    {
+        "name": "diversity.#healthcare", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#moargunz", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#moargunz"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#vets", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#vets"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dennyhasert", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bethechange", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#bethechange"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncprimary", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#election2016"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#reapwhatyousow", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#guns", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dumb", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#dumb"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#protectncfragilekids", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#protectncfragilekids"
+        ], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": [
+            12.0
+        ]
+    }, 
+    {
+        "name": "diversity.#republicanagenda", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#republicanagenda"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tool", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#tool"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fns", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#fns"
+        ], 
+        "name_frequency": 65, 
+        "associated_name_frequencies": [
+            65.0
+        ]
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "name": "diversity.#pioneerofbigotry", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pottypolitics", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pioneerofbigotry"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tgbtg", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#costingusjops", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nclegislature", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#patpromised"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#keepncsafe", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#dontdoitcharlotte", 
+            "diversity.#patpromised", 
+            "diversity.#patdelivered"
+        ], 
+        "name_frequency": 319, 
+        "associated_name_frequencies": [
+            1.0, 
+            202.0, 
+            9.0
+        ]
+    }, 
+    {
+        "name": "diversity.#killingourbrand", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ncpol", 
+        "degree": 6, 
+        "associated_names": [
+            "diversity.#keepncsafe", 
+            "diversity.#killingourbrand", 
+            "diversity.#ncga", 
+            "diversity.#costingusjobs", 
+            "diversity.#patpromised", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 35, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            8.0, 
+            1.0, 
+            1.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearenothis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#istandwithpat", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ncga", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncpol"
+        ], 
+        "name_frequency": 18, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#denialisnotariver", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncpol"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dontdiscriminate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#patpromised"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearethis", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearenotthis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#whereispat", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#standwithnc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#prayersanswered", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#costingusjobs", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#leadershipfail", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lostjobs", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hateforprosperity", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearesothis"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#answeredprayers", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dontdoitcharlotte", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#keepncsafe"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#clt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#strongnc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#howmuchdidpatspend4newbrand", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ncpol"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearesothis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#slattslip", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#patpromised", 
+        "degree": 10, 
+        "associated_names": [
+            "diversity.#keepncsafe", 
+            "diversity.#ncpol", 
+            "diversity.#ncga", 
+            "diversity.#whereispat", 
+            "diversity.#prayersanswered", 
+            "diversity.#leadershipfail", 
+            "diversity.#dontdoitcharlotte", 
+            "diversity.#slattslip", 
+            "diversity.#patpromised", 
+            "diversity.#patdelivered"
+        ], 
+        "name_frequency": 444, 
+        "associated_name_frequencies": [
+            71.0, 
+            1.0, 
+            4.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            1.0, 
+            73.0, 
+            44.0
+        ]
+    }, 
+    {
+        "name": "diversity.#denialisnotariverinafrica", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#patdelivered", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#tgbtg", 
+            "diversity.#keepncsafe", 
+            "diversity.#ncpol", 
+            "diversity.#strongnc", 
+            "diversity.#patdelivered"
+        ], 
+        "name_frequency": 143, 
+        "associated_name_frequencies": [
+            1.0, 
+            3.0, 
+            12.0, 
+            3.0, 
+            50.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hb2", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#patpromised", 
+            "diversity.#patdelivered"
+        ], 
+        "name_frequency": 25, 
+        "associated_name_frequencies": [
+            2.0, 
+            1.0
+        ]
+    }
+]

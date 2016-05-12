@@ -1,0 +1,79 @@
+[
+    {
+        "name": "diversity.#ncpol", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 28, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncga", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#ncpol", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 26, 
+        "associated_name_frequencies": [
+            23.0, 
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#northcarolina", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            7.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearenotthis", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hb2", 
+        "degree": 4, 
+        "associated_names": [
+            "diversity.#ncpol", 
+            "diversity.#wearenotthis", 
+            "diversity.#hb2", 
+            "diversity.#doj"
+        ], 
+        "name_frequency": 218, 
+        "associated_name_frequencies": [
+            2.0, 
+            1.0, 
+            187.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#doj", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }
+]

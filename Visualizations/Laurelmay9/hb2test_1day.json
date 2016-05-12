@@ -1,0 +1,245 @@
+[
+    {
+        "name": "diversity.", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 144, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ncpol", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#ncga", 
+            "diversity.#ncgov", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 53, 
+        "associated_name_frequencies": [
+            5.0, 
+            5.0, 
+            13.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wral", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pig", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#maddow", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wccb", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ncga", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#ncpol", 
+            "diversity.#ncgov", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 44, 
+        "associated_name_frequencies": [
+            15.0, 
+            15.0, 
+            24.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transwomenarewomen", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#hb2737", 
+            "diversity.#sb513", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0, 
+            2.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hb2737", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nc", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#wccb", 
+            "diversity.#hb2", 
+            "diversity.#doj"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            6.0, 
+            7.0, 
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ncgov", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#ncpol", 
+            "diversity.#ncga"
+        ], 
+        "name_frequency": 20, 
+        "associated_name_frequencies": [
+            15.0, 
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#northcarolina", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#hb2", 
+            "diversity.#humanrights", 
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 13, 
+        "associated_name_frequencies": [
+            13.0, 
+            13.0, 
+            13.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sb513", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hb2737"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hb2", 
+        "degree": 11, 
+        "associated_names": [
+            "diversity.#ncpol", 
+            "diversity.#wral", 
+            "diversity.#pig", 
+            "diversity.#wccb", 
+            "diversity.#ncga", 
+            "diversity.#hb2737", 
+            "diversity.#ncgov", 
+            "diversity.#sb513", 
+            "diversity.#humanrights", 
+            "diversity.#nevertrump", 
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 584, 
+        "associated_name_frequencies": [
+            40.0, 
+            6.0, 
+            1.0, 
+            6.0, 
+            20.0, 
+            2.0, 
+            20.0, 
+            2.0, 
+            13.0, 
+            1.0, 
+            105.0
+        ]
+    }, 
+    {
+        "name": "diversity.#doj", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#wccb", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            6.0, 
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#parenting", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#repealhb2", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 76, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#humanrights", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 13, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#shebelongs", 
+        "degree": 4, 
+        "associated_names": [
+            "diversity.#transwomenarewomen", 
+            "diversity.#hb2737", 
+            "diversity.#sb513", 
+            "diversity.#hb2"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0, 
+            2.0, 
+            2.0, 
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#nevertrump", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbt", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#hb2", 
+            "diversity.#humanrights"
+        ], 
+        "name_frequency": 132, 
+        "associated_name_frequencies": [
+            26.0, 
+            13.0
+        ]
+    }
+]

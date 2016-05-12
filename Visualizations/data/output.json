@@ -1,0 +1,811 @@
+[
+    {
+        "imports": [], 
+        "name": "diversity", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#socialcrm16", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#codstem", 
+            "diversity.#girlswhocode", 
+            "diversity.#collegeofdupage", 
+            "diversity.#kidswhocode"
+        ], 
+        "name": "diversity.#stemcon", 
+        "size": 8.0
+    }, 
+    {
+        "imports": [
+            "diversity.#jobs", 
+            "diversity.#access"
+        ], 
+        "name": "diversity.#stem", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#tech", 
+            "diversity.#techtuesday", 
+            "diversity.#lgbtq"
+        ], 
+        "name": "diversity.#kickstarter", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#codetalks", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#dctech", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#globaldev", 
+            "diversity.#tech"
+        ], 
+        "name": "diversity.#nonprofit", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#maths", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#technology"
+        ], 
+        "name": "diversity.#howto", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode", 
+            "diversity.#alpha", 
+            "diversity.#tech", 
+            "diversity.#business"
+        ], 
+        "name": "diversity.#women", 
+        "size": 7.0
+    }, 
+    {
+        "imports": [
+            "diversity.#diversity", 
+            "diversity.#technology"
+        ], 
+        "name": "diversity.#orlando", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#minorities", 
+            "diversity.#tech"
+        ], 
+        "name": "diversity.#speakers", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#youthspark", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#belaerecatadaedolar", 
+            "diversity.#girlswhocode", 
+            "diversity.#womenintech"
+        ], 
+        "name": "diversity.#iot", 
+        "size": 6.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode", 
+            "diversity.#adedu", 
+            "diversity.#makerspace"
+        ], 
+        "name": "diversity.#coding", 
+        "size": 8.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#adweekchat", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#whyidothiswork", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#iotchat"
+        ], 
+        "name": "diversity.#shinethelight", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#fastcompany", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#ppc"
+        ], 
+        "name": "diversity.#backlink", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#lgbtqintech", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#wtm229", 
+            "diversity.#wasexo"
+        ], 
+        "name": "diversity.#benintech", 
+        "size": 4.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#wp", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#steam", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode", 
+            "diversity.#collegeofdupage", 
+            "diversity.#kidswhocode"
+        ], 
+        "name": "diversity.#codstem", 
+        "size": 6.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#startups", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#wit", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#youthspark", 
+            "diversity.#girlswhocode", 
+            "diversity.#seattle"
+        ], 
+        "name": "diversity.#weday", 
+        "size": 6.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#ict4d", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#realdirt", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#ppc", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#diversity", 
+            "diversity.#womenintech", 
+            "diversity.#diversityintech"
+        ], 
+        "name": "diversity.#cro", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#dallas", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#diversity", 
+            "diversity.#tech", 
+            "diversity.#techindustry"
+        ], 
+        "name": "diversity.#equality", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#disruptv", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#coding"
+        ], 
+        "name": "diversity.#ipaded", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode", 
+            "diversity.#womenintech", 
+            "diversity.#inmotionhosting", 
+            "diversity.#techtuesday"
+        ], 
+        "name": "diversity.#girldevelopit", 
+        "size": 8.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#disruptaging", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#happyblogging", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#wasexo"
+        ], 
+        "name": "diversity.#wtm229", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#stem", 
+            "diversity.#jobs", 
+            "diversity.#access", 
+            "diversity.#womenintech", 
+            "diversity.#onlineabuse", 
+            "diversity.#diversityintech", 
+            "diversity.#tech", 
+            "diversity.#techindustry", 
+            "diversity.#zalandotech"
+        ], 
+        "name": "diversity.#diversity", 
+        "size": 10.0
+    }, 
+    {
+        "imports": [
+            "diversity.#ptw16"
+        ], 
+        "name": "diversity.#techincolor", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#scwomen", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#aspirationsawards", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#techiesproject", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#maths", 
+            "diversity.#science", 
+            "diversity.#tech"
+        ], 
+        "name": "diversity.#computers", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#autoblog", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#benintech", 
+            "diversity.#wtm229", 
+            "diversity.#girlswhocode", 
+            "diversity.#wasexo"
+        ], 
+        "name": "diversity.#htlm", 
+        "size": 8.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#edtech", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#belaerecatadaedolar", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#diversity", 
+            "diversity.#technews", 
+            "diversity.#blogger"
+        ], 
+        "name": "diversity.#technology", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [
+            "diversity.#access"
+        ], 
+        "name": "diversity.#jobs", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [
+            "diversity.#technology"
+        ], 
+        "name": "diversity.#technews", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [
+            "diversity.#tech"
+        ], 
+        "name": "diversity.#minorities", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [
+            "diversity.#onlinemarketing"
+        ], 
+        "name": "diversity.#hosting", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#blogengage", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#santamonica", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#mentor", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#kcxptf", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#access", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#socialcrm16", 
+            "diversity.#stem", 
+            "diversity.#coding", 
+            "diversity.#benintech", 
+            "diversity.#ipaded", 
+            "diversity.#wtm229", 
+            "diversity.#edtech", 
+            "diversity.#belaerecatadaedolar", 
+            "diversity.#womenintech", 
+            "diversity.#adedu", 
+            "diversity.#wasexo", 
+            "diversity.#alpha", 
+            "diversity.#makerspace", 
+            "diversity.#seewhatididthere", 
+            "diversity.#otw16"
+        ], 
+        "name": "diversity.#girlswhocode", 
+        "size": 40.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#iotchat", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#codetalks", 
+            "diversity.#coding", 
+            "diversity.#diversity", 
+            "diversity.#techincolor", 
+            "diversity.#belaerecatadaedolar", 
+            "diversity.#mentor", 
+            "diversity.#girlswhocode", 
+            "diversity.#ptw16", 
+            "diversity.#techtuesday", 
+            "diversity.#business", 
+            "diversity.#otw16"
+        ], 
+        "name": "diversity.#womenintech", 
+        "size": 20.0
+    }, 
+    {
+        "imports": [
+            "diversity.#maths", 
+            "diversity.#tech"
+        ], 
+        "name": "diversity.#science", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#coding", 
+            "diversity.#ipaded", 
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#adedu", 
+        "size": 6.0
+    }, 
+    {
+        "imports": [
+            "diversity.#googleseo"
+        ], 
+        "name": "diversity.#blogger", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode", 
+            "diversity.#kidswhocode"
+        ], 
+        "name": "diversity.#collegeofdupage", 
+        "size": 4.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#onlinemarketing", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#onlineabuse", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#tech", 
+            "diversity.#startup", 
+            "diversity.#siliconvalley"
+        ], 
+        "name": "diversity.#trailblazers", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [
+            "diversity.#womenintech"
+        ], 
+        "name": "diversity.#diversityintech", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#globaldev", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#wasexo", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#alpha", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#marketing"
+        ], 
+        "name": "diversity.#enganchadoconrdc", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#googleseo", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#stem", 
+            "diversity.#maths", 
+            "diversity.#howto", 
+            "diversity.#wit", 
+            "diversity.#cro", 
+            "diversity.#diversity", 
+            "diversity.#technology", 
+            "diversity.#jobs", 
+            "diversity.#technews", 
+            "diversity.#access", 
+            "diversity.#girlswhocode", 
+            "diversity.#womenintech", 
+            "diversity.#onlineabuse", 
+            "diversity.#diversityintech", 
+            "diversity.#alpha", 
+            "diversity.#techtuesday", 
+            "diversity.#otw16", 
+            "diversity.#startup", 
+            "diversity.#siliconvalley"
+        ], 
+        "name": "diversity.#tech", 
+        "size": 32.0
+    }, 
+    {
+        "imports": [
+            "diversity.#technology", 
+            "diversity.#blogger", 
+            "diversity.#gamersunite"
+        ], 
+        "name": "diversity.#gamer", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#techindustry", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode", 
+            "diversity.#womenintech", 
+            "diversity.#techtuesday"
+        ], 
+        "name": "diversity.#inmotionhosting", 
+        "size": 6.0
+    }, 
+    {
+        "imports": [
+            "diversity.#technology", 
+            "diversity.#blogger", 
+            "diversity.#gamer", 
+            "diversity.#gamersunite"
+        ], 
+        "name": "diversity.#gaming", 
+        "size": 4.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#ptw16", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#makerspace", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#technology", 
+            "diversity.#blogger"
+        ], 
+        "name": "diversity.#gamersunite", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.hashtags", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#techtuesday", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#seewhatididthere", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#business", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#equality", 
+            "diversity.#tech", 
+            "diversity.#techtuesday"
+        ], 
+        "name": "diversity.#lgbtq", 
+        "size": 4.0
+    }, 
+    {
+        "imports": [
+            "diversity.#lgbtqintech"
+        ], 
+        "name": "diversity.#frontend", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#morethancode", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#internet4all", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#seoexpert"
+        ], 
+        "name": "diversity.#digitalmarketing", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#articles", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#uniteblue", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#youthspark", 
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#seattle", 
+        "size": 4.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#gogirls", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#articles"
+        ], 
+        "name": "diversity.#marketing", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [
+            "diversity.#autoblog", 
+            "diversity.#articles", 
+            "diversity.#marketing"
+        ], 
+        "name": "diversity.#blogging", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#otw16", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#kidswhocode", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#ditop50", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#startup", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#tribecca2016", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#stem", 
+            "diversity.#diversity", 
+            "diversity.#jobs", 
+            "diversity.#access", 
+            "diversity.#tech", 
+            "diversity.#startup"
+        ], 
+        "name": "diversity.#siliconvalley", 
+        "size": 6.0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#girlsinstem", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#zalandotech", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#seoexpert", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#girlswhocode"
+        ], 
+        "name": "diversity.#dublin", 
+        "size": 2.0
+    }, 
+    {
+        "imports": [
+            "diversity.#tech"
+        ], 
+        "name": "diversity.#diversitech", 
+        "size": 1.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#salesforce", 
+        "size": 0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#facebook", 
+        "size": 0
+    }, 
+    {
+        "imports": [
+            "diversity.#equality", 
+            "diversity.#tech", 
+            "diversity.#lgbtq"
+        ], 
+        "name": "diversity.#ediewindsor", 
+        "size": 3.0
+    }, 
+    {
+        "imports": [], 
+        "name": "diversity.#weareyqq", 
+        "size": 0
+    }
+]
