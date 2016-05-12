@@ -3,7 +3,7 @@ An interdisciplinary study observing conversations of diversity in technology th
 
 **Original Source:** https://github.com/Jefferson-Henrique/GetOldTweets-python
 
-A project written in Python to get diversity tweets, using Jeffrey Henrique's GetTWeets API to bypass some limitations of Twitter Official API and obtain data on diversity conversations on Twitter both at a macro-level (e.g. hashtag/user analysis) as well as ona micro-level (e.g.text analyitics, contextualizing sarcasm in heated topics such as diversity, etc).
+A project written in Python to get diversity tweets, using Jeffrey Henrique's GetOldTWeets API to bypass some limitations of Twitter Official API and obtain data on diversity conversations on Twitter both at a macro-level (e.g. hashtag/user analysis) as well as at a micro-level (e.g. text analyitics, contextualizing sarcasm in heated topics such as diversity, etc).
 
 
 ## Details
