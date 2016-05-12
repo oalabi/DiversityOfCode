@@ -1,7 +1,7 @@
 # DiversityOfCode
 An interdisciplinary study observing conversations of diversity in technology through  a combination of close readings of individual texts; analytics including sentiment analysis, text clustering, and lexical analysis; and visualizations, we seek to reveal features of these texts’ vocabularies, rhetorical and affective strategies, and semantic patterns. We will remain alert to any evidence of potential conscious and unconscious bias, relationships, or patterns within and between the corpora on Twitter. Our goal is to observe and visualize relationships between Tweets to make commentary one the conversation of diversity in technology programatically, socially, and culturally.
 
-** Original Source: ** https://github.com/Jefferson-Henrique/GetOldTweets-python
+**Original Source:** https://github.com/Jefferson-Henrique/GetOldTweets-python
 
 A project written in Python to get diversity tweets, using Jeffrey Henrique's GetTWeets API to bypass some limitations of Twitter Official API and obtain data on diversity conversations on Twitter both at a macro-level (e.g. hashtag/user analysis) as well as ona micro-level (e.g.text analyitics, contextualizing sarcasm in heated topics such as diversity, etc).
 
