@@ -1,0 +1,281 @@
+[
+    {
+        "name": "diversity.#littlebits", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#getafterit", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.@lizapotts", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.@lizapotts"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#diglibarts", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#dlax"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hastac2016", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#hastac2016", 
+            "diversity.#makersbymail", 
+            "diversity.#performancedh"
+        ], 
+        "name_frequency": 37, 
+        "associated_name_frequencies": [
+            24.0, 
+            1.0, 
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#makersbymail", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#panelofannes", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac2016"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#womenintc", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nexuslab", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#cwcon", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#cwcon"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#arizona", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#dh"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hastac", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#modlab", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#femtechnet", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#dh"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#asu", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nexuslab"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thanksfionab", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dlax", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#grateful", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dh", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#xa", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#eventuality", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac2016"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#performancedh", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#cowboi", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#modlab"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dedication", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac2016"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#digiped", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ux", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#xa"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#unconference", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hastac16", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#getafterit", 
+            "diversity.#hastac2016", 
+            "diversity.#womenintc", 
+            "diversity.#thanksfionab", 
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 39, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            23.0
+        ]
+    }, 
+    {
+        "name": "diversity.@hastac2016", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.@hastac2016"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }
+]

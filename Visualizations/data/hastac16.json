@@ -1,0 +1,1997 @@
+[
+    {
+        "name": "diversity.#truth", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dbackstbt", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#annepanel", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hastac2017", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hastac2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#flatoctocat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#souhilabenlachhab", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#heading", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#yesplease", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#digitalhumanities", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#photo", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#videogamelyfe", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ucsdit", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wellplayed", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#system", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#femtechnet", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#hastac16", 
+            "diversity.#transformdh"
+        ], 
+        "name_frequency": 41, 
+        "associated_name_frequencies": [
+            5.0, 
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#women", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#4c16", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sayhername", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lecturemode", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fashioningcircuits", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#fanstudies15", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#msuxa", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#msuwide", 
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 19, 
+        "associated_name_frequencies": [
+            13.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ff", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#magneticpoetry", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#freethedata", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#embarassed", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dh2016", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#womeninstem", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#squadgoals", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 13, 
+        "associated_name_frequencies": [
+            8.0
+        ]
+    }, 
+    {
+        "name": "diversity.#takkenmineent", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#busmetaphor", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dscw16", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#rileycurry", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#stephmomma"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transmedialdrag", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#studentcenteredlearning", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#feelings", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#design", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#digitalpedagogy", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hydrate", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wt", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wearables"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dhped", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#unconference", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            9.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lctl", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#comics", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#inpho", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#getafterit", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#timekeeping", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#meetup", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#ethicsofarchives", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#opensource", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#iwasblockedfor", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#nevertrump", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#womenintc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 10, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#uncannyvalley", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#taqueriasconversos", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#1", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#msudh", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pornrhetorics", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.@garydirks", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.@garydirks"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#arizona", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#hastac16", 
+            "diversity.#dh"
+        ], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#strategicplan", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#follwme", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#thankfulthursday", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#eurovision2016", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#cbox", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bikramconference", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#amichaelcoreyfilm", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#thatsthedream", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#editor", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#msuwide", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#msuxa"
+        ], 
+        "name_frequency": 26, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.@purplekimchi", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.@purplekimchi"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#mincomp", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#datavisualization", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#folkmusic", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            5.0
+        ]
+    }, 
+    {
+        "name": "diversity.#feminist", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wideemu16", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tempeaz", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#riley", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#grateful", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#digitalinclusion", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#octocat", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wearables", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#xa", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 36, 
+        "associated_name_frequencies": [
+            24.0
+        ]
+    }, 
+    {
+        "name": "diversity.#india", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#eventuality", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#feminism", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#process", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#sidenote", 
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 17, 
+        "associated_name_frequencies": [
+            1.0, 
+            12.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wordcloud", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tempe", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#stephmomma", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#notsorry", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#neoliberal", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#makerspace"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#universityworthfightingfor", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fight4edu", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 170, 
+        "associated_name_frequencies": [
+            87.0
+        ]
+    }, 
+    {
+        "name": "diversity.#edtech", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#oersummit", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#themes", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            7.0
+        ]
+    }, 
+    {
+        "name": "diversity.#phoenixians", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hastacpod", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hnetathastac"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#careisafeministtechnology", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#flashbackfriday", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#podcasts", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#whoa", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#predatorpillow", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#github"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#cray", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#tailoringbad", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dumptrump", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#uscdh", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#wicked", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wickedontour"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#privilageofspace", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pedagogy", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#asd", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#modlab", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 11, 
+        "associated_name_frequencies": [
+            9.0
+        ]
+    }, 
+    {
+        "name": "diversity.#neurodiversity", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hnetathastac", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#meetup"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#remixthediss", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#asu", 
+        "degree": 4, 
+        "associated_names": [
+            "diversity.#arizona", 
+            "diversity.#india", 
+            "diversity.#hastac16", 
+            "diversity.#sustainability"
+        ], 
+        "name_frequency": 35, 
+        "associated_name_frequencies": [
+            12.0, 
+            1.0, 
+            3.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#digipres", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#critmake", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 11, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sessio", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#inthedesert", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gis", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#palmtrees", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#interdisciplinary", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bp", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#sustainability"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#untoldhistories", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dataviz", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#highered", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#dh"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#performancedh", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 18, 
+        "associated_name_frequencies": [
+            7.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wickedontour", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#escse", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.@praymurray", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.@praymurray"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#chtf", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#love", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sddh", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ucsdit"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#definition_and_the_four_freedoms", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pda2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hapticarchive", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gongshow", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#embarassed"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#technologiesoffabulous", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sidenote", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hastac15", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hkmeetsto", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hastac17", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 22, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hastac16", 
+        "degree": 59, 
+        "associated_names": [
+            "diversity.#hastac2016", 
+            "diversity.#flatoctocat", 
+            "diversity.#heading", 
+            "diversity.#digitalhumanities", 
+            "diversity.#photo", 
+            "diversity.#femtechnet", 
+            "diversity.#fashioningcircuits", 
+            "diversity.#fanstudies15", 
+            "diversity.#msuxa", 
+            "diversity.#magneticpoetry", 
+            "diversity.#squadgoals", 
+            "diversity.#digitalpedagogy", 
+            "diversity.#hydrate", 
+            "diversity.#wt", 
+            "diversity.#unconference", 
+            "diversity.#getafterit", 
+            "diversity.#ethicsofarchives", 
+            "diversity.#nevertrump", 
+            "diversity.#womenintc", 
+            "diversity.#uncannyvalley", 
+            "diversity.#", 
+            "diversity.#thankfulthursday", 
+            "diversity.#cbox", 
+            "diversity.#bikramconference", 
+            "diversity.#msuwide", 
+            "diversity.#mincomp", 
+            "diversity.#datavisualization", 
+            "diversity.#wideemu16", 
+            "diversity.#digitalinclusion", 
+            "diversity.#xa", 
+            "diversity.#process", 
+            "diversity.#fight4edu", 
+            "diversity.#tailoringbad", 
+            "diversity.#dumptrump", 
+            "diversity.#uscdh", 
+            "diversity.#privilageofspace", 
+            "diversity.#hnetathastac", 
+            "diversity.#asu", 
+            "diversity.#critmake", 
+            "diversity.#sessio", 
+            "diversity.#gis", 
+            "diversity.#interdisciplinary", 
+            "diversity.#performancedh", 
+            "diversity.#love", 
+            "diversity.#pda2016", 
+            "diversity.#hastac17", 
+            "diversity.#hastac16", 
+            "diversity.#transformdh", 
+            "diversity.#thankyoukaysi", 
+            "diversity.#makersbymail", 
+            "diversity.#envhist", 
+            "diversity.#america", 
+            "diversity.#criticaldesigndeviantcritique", 
+            "diversity.#more", 
+            "diversity.#thanksfionab", 
+            "diversity.#digped", 
+            "diversity.#dh", 
+            "diversity.#github", 
+            "diversity.#catsofasu"
+        ], 
+        "name_frequency": 3134, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            1.0, 
+            22.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            5.0, 
+            5.0, 
+            1.0, 
+            1.0, 
+            3.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            4.0, 
+            2.0, 
+            1.0, 
+            3.0, 
+            1.0, 
+            1.0, 
+            12.0, 
+            1.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            6.0, 
+            4.0, 
+            80.0, 
+            1.0, 
+            1.0, 
+            2.0, 
+            1.0, 
+            1.0, 
+            15.0, 
+            11.0, 
+            1.0, 
+            1.0, 
+            1.0, 
+            4.0, 
+            1.0, 
+            4.0, 
+            7.0, 
+            2271.0, 
+            51.0, 
+            3.0, 
+            1.0, 
+            2.0, 
+            2.0, 
+            2.0, 
+            1.0, 
+            21.0, 
+            2.0, 
+            12.0, 
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#digitalgc", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#makerspace", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#hastac16", 
+            "diversity.#dh"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            1.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#transformdh", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 120, 
+        "associated_name_frequencies": [
+            58.0
+        ]
+    }, 
+    {
+        "name": "diversity.#publichumanities", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thankyoukaysi", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#showup", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#failures", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hiphop", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#cssc2016", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 8, 
+        "associated_name_frequencies": [
+            8.0
+        ]
+    }, 
+    {
+        "name": "diversity.#makersbymail", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#3", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#yesgirl", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#envhist", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#america", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#2", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#3"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fldh", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 14, 
+        "associated_name_frequencies": [
+            14.0
+        ]
+    }, 
+    {
+        "name": "diversity.#criticaldesigndeviantcritique", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#duh", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#citeherwork", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            7.0
+        ]
+    }, 
+    {
+        "name": "diversity.#octokitty", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.@moengel", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.@moengel"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lxdesign", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ux"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gradschoollife", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#notsorry"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#more", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#performingarts", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thanksfionab", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 54, 
+        "associated_name_frequencies": [
+            31.0
+        ]
+    }, 
+    {
+        "name": "diversity.#innovation", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#goforit", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#digped", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#fight4edu", 
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 9, 
+        "associated_name_frequencies": [
+            1.0, 
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#archiveaccountability", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#thankfiona", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#emptychairgravitas", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#dh", 
+        "degree": 3, 
+        "associated_names": [
+            "diversity.#podcasts", 
+            "diversity.#performancedh", 
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 49, 
+        "associated_name_frequencies": [
+            1.0, 
+            4.0, 
+            16.0
+        ]
+    }, 
+    {
+        "name": "diversity.#criticalpedagogy", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#studentsasproducers", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#oralhistory", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#healthcare", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hnet", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#surveillance", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#system"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#github", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }, 
+    {
+        "name": "diversity.#socialjusticesustainability", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": [
+            2.0
+        ]
+    }, 
+    {
+        "name": "diversity.#freesoftware", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#makerspaces", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#hastac16", 
+            "diversity.#dh"
+        ], 
+        "name_frequency": 7, 
+        "associated_name_frequencies": [
+            1.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#mansplainingmenstruation", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#dfn", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#catsofasu", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#sustainability", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#digiped", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#edtech", 
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 5, 
+        "associated_name_frequencies": [
+            1.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ux", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#xa", 
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 14, 
+        "associated_name_frequencies": [
+            4.0, 
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#experiencearchitecture", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#socialpaper", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#hierarchyofneeds", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#tool", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#hastac16"
+        ], 
+        "name_frequency": 4, 
+        "associated_name_frequencies": [
+            4.0
+        ]
+    }, 
+    {
+        "name": "diversity.#whiteovertalking", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#transformdh"
+        ], 
+        "name_frequency": 3, 
+        "associated_name_frequencies": [
+            3.0
+        ]
+    }
+]

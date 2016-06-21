@@ -1,0 +1,154 @@
+[
+    {
+        "name": "diversity.#filibuster", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 66, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#feelthebern", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 12, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#maga", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#jesus", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#scotus", 
+        "degree": 5, 
+        "associated_names": [
+            "diversity.#filibuster", 
+            "diversity.#feelthebern", 
+            "diversity.#jesus", 
+            "diversity.#scotus", 
+            "diversity.#congress"
+        ], 
+        "name_frequency": 459, 
+        "associated_name_frequencies": [
+            66.0, 
+            12.0, 
+            1.0, 
+            331.0, 
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wtf", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#trumptrain", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#maga"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#stopthesham", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#stopthesham"
+        ], 
+        "name_frequency": 95, 
+        "associated_name_frequencies": [
+            95.0
+        ]
+    }, 
+    {
+        "name": "diversity.#otd", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#scotus"
+        ], 
+        "name_frequency": 41, 
+        "associated_name_frequencies": [
+            41.0
+        ]
+    }, 
+    {
+        "name": "diversity.#congress", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#assaulteeaponsbannow", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#assaulteeaponsbannow"
+        ], 
+        "name_frequency": 206, 
+        "associated_name_frequencies": [
+            206.0
+        ]
+    }, 
+    {
+        "name": "diversity.#nevertrump", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nevertrump"
+        ], 
+        "name_frequency": 65, 
+        "associated_name_frequencies": [
+            65.0
+        ]
+    }, 
+    {
+        "name": "diversity.#icymi", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#scotus"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ginsburg", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#scalia", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }
+]
