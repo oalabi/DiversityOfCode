@@ -1,0 +1,818 @@
+[
+    {
+        "name": "diversity.#orlandoshooting", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#orlandoshooting", 
+            "diversity.#falseflag"
+        ], 
+        "name_frequency": 2491, 
+        "associated_name_frequencies": [
+            971.0, 
+            32.0
+        ]
+    }, 
+    {
+        "name": "diversity.#win", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#win"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#maga", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pulse"
+        ], 
+        "name_frequency": 705, 
+        "associated_name_frequencies": [
+            483.0
+        ]
+    }, 
+    {
+        "name": "diversity.#ceo2016", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#ceo2016"
+        ], 
+        "name_frequency": 224, 
+        "associated_name_frequencies": [
+            224.0
+        ]
+    }, 
+    {
+        "name": "diversity.#sfgiants", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#sfgiants"
+        ], 
+        "name_frequency": 269, 
+        "associated_name_frequencies": [
+            269.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pulseshooting", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pulseshooting"
+        ], 
+        "name_frequency": 313, 
+        "associated_name_frequencies": [
+            313.0
+        ]
+    }, 
+    {
+        "name": "diversity.#rays", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#rays"
+        ], 
+        "name_frequency": 121, 
+        "associated_name_frequencies": [
+            121.0
+        ]
+    }, 
+    {
+        "name": "diversity.#edmfamily", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#edmfamily"
+        ], 
+        "name_frequency": 95, 
+        "associated_name_frequencies": [
+            95.0
+        ]
+    }, 
+    {
+        "name": "diversity.#nra", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#nra"
+        ], 
+        "name_frequency": 282, 
+        "associated_name_frequencies": [
+            282.0
+        ]
+    }, 
+    {
+        "name": "diversity.#orlandoshootings", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#orlandoshootings"
+        ], 
+        "name_frequency": 71, 
+        "associated_name_frequencies": [
+            71.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lovewins", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lovewins"
+        ], 
+        "name_frequency": 156, 
+        "associated_name_frequencies": [
+            156.0
+        ]
+    }, 
+    {
+        "name": "diversity.#orlandostrong", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#orlandostrong"
+        ], 
+        "name_frequency": 1522, 
+        "associated_name_frequencies": [
+            1436.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pulsenighclubshooting", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 194, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#gs", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#gs"
+        ], 
+        "name_frequency": 1039, 
+        "associated_name_frequencies": [
+            1039.0
+        ]
+    }, 
+    {
+        "name": "diversity.#popmusic", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#music"
+        ], 
+        "name_frequency": 184, 
+        "associated_name_frequencies": [
+            184.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pinkpistols", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#2a"
+        ], 
+        "name_frequency": 178, 
+        "associated_name_frequencies": [
+            178.0
+        ]
+    }, 
+    {
+        "name": "diversity.#prayersfororlando", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 189, 
+        "associated_name_frequencies": [
+            189.0
+        ]
+    }, 
+    {
+        "name": "diversity.#loveislove", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#loveislove"
+        ], 
+        "name_frequency": 220, 
+        "associated_name_frequencies": [
+            131.0
+        ]
+    }, 
+    {
+        "name": "diversity.#", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#"
+        ], 
+        "name_frequency": 317, 
+        "associated_name_frequencies": [
+            317.0
+        ]
+    }, 
+    {
+        "name": "diversity.#weareorlando", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#weareorlando"
+        ], 
+        "name_frequency": 1050, 
+        "associated_name_frequencies": [
+            1027.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gunsense", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pulse"
+        ], 
+        "name_frequency": 206, 
+        "associated_name_frequencies": [
+            206.0
+        ]
+    }, 
+    {
+        "name": "diversity.#inners", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#inners"
+        ], 
+        "name_frequency": 103, 
+        "associated_name_frequencies": [
+            103.0
+        ]
+    }, 
+    {
+        "name": "diversity.#gay", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 73, 
+        "associated_name_frequencies": [
+            73.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pride2016", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pride2016"
+        ], 
+        "name_frequency": 339, 
+        "associated_name_frequencies": [
+            339.0
+        ]
+    }, 
+    {
+        "name": "diversity.#9news", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#9news"
+        ], 
+        "name_frequency": 19, 
+        "associated_name_frequencies": [
+            19.0
+        ]
+    }, 
+    {
+        "name": "diversity.#redspot", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#redspot"
+        ], 
+        "name_frequency": 64, 
+        "associated_name_frequencies": [
+            64.0
+        ]
+    }, 
+    {
+        "name": "diversity.#alvearstrong", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#alvearstrong"
+        ], 
+        "name_frequency": 87, 
+        "associated_name_frequencies": [
+            87.0
+        ]
+    }, 
+    {
+        "name": "diversity.#noh8", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#noh8"
+        ], 
+        "name_frequency": 415, 
+        "associated_name_frequencies": [
+            415.0
+        ]
+    }, 
+    {
+        "name": "diversity.#praisefox", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#praisefox"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#orlando", 
+        "degree": 6, 
+        "associated_names": [
+            "diversity.#loveislove", 
+            "diversity.#weareorlando", 
+            "diversity.#orlando", 
+            "diversity.#f", 
+            "diversity.#pulse", 
+            "diversity.#lgbt"
+        ], 
+        "name_frequency": 13060, 
+        "associated_name_frequencies": [
+            89.0, 
+            23.0, 
+            2413.0, 
+            52.0, 
+            1038.0, 
+            218.0
+        ]
+    }, 
+    {
+        "name": "diversity.#2a", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 178, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#orlandohorror", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 269, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#videoart", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#videoart"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#storylink", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#storylink"
+        ], 
+        "name_frequency": 386, 
+        "associated_name_frequencies": [
+            386.0
+        ]
+    }, 
+    {
+        "name": "diversity.#innovation", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#marketing", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#growth"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#defiant", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#defiant"
+        ], 
+        "name_frequency": 78, 
+        "associated_name_frequencies": [
+            78.0
+        ]
+    }, 
+    {
+        "name": "diversity.#floridashooting", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pulse"
+        ], 
+        "name_frequency": 2796, 
+        "associated_name_frequencies": [
+            2796.0
+        ]
+    }, 
+    {
+        "name": "diversity.#loveisloveislove", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#loveisloveislove"
+        ], 
+        "name_frequency": 90, 
+        "associated_name_frequencies": [
+            90.0
+        ]
+    }, 
+    {
+        "name": "diversity.#fbi", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 447, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#berlinfororlando", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 157, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#cair", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#cair", 
+            "diversity.#orlandounited"
+        ], 
+        "name_frequency": 634, 
+        "associated_name_frequencies": [
+            137.0, 
+            497.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pride", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 5618, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#music", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 184, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#bookboost", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#falseflag", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 32, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#iheart5h", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#iheart5h"
+        ], 
+        "name_frequency": 83, 
+        "associated_name_frequencies": [
+            83.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wufam", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wufam"
+        ], 
+        "name_frequency": 28, 
+        "associated_name_frequencies": [
+            28.0
+        ]
+    }, 
+    {
+        "name": "diversity.#melfie", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 80, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#orlandolove", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 66, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#f", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 52, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#iartg", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#omaha", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#orlandostrong"
+        ], 
+        "name_frequency": 86, 
+        "associated_name_frequencies": [
+            86.0
+        ]
+    }, 
+    {
+        "name": "diversity.#change", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#change"
+        ], 
+        "name_frequency": 190, 
+        "associated_name_frequencies": [
+            190.0
+        ]
+    }, 
+    {
+        "name": "diversity.#loveoneanother", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 2746, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#themoreyouknow", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#themoreyouknow"
+        ], 
+        "name_frequency": 6, 
+        "associated_name_frequencies": [
+            6.0
+        ]
+    }, 
+    {
+        "name": "diversity.#growth", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#disneygatorattack", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#disneygatorattack"
+        ], 
+        "name_frequency": 64, 
+        "associated_name_frequencies": [
+            64.0
+        ]
+    }, 
+    {
+        "name": "diversity.#oneorlando", 
+        "degree": 2, 
+        "associated_names": [
+            "diversity.#orlandolove", 
+            "diversity.#oneorlando"
+        ], 
+        "name_frequency": 129, 
+        "associated_name_frequencies": [
+            66.0, 
+            63.0
+        ]
+    }, 
+    {
+        "name": "diversity.#rip", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#orlandoshooting"
+        ], 
+        "name_frequency": 1488, 
+        "associated_name_frequencies": [
+            1488.0
+        ]
+    }, 
+    {
+        "name": "diversity.#love", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 95, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#onepulse", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#onepulse"
+        ], 
+        "name_frequency": 87, 
+        "associated_name_frequencies": [
+            87.0
+        ]
+    }, 
+    {
+        "name": "diversity.#shooting", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 217, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#orlandounited", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#orlandounited"
+        ], 
+        "name_frequency": 2017, 
+        "associated_name_frequencies": [
+            1474.0
+        ]
+    }, 
+    {
+        "name": "diversity.#vigil", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 103, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#isis", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 224, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#endgunviolence", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 210, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#lgbtpride", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 388, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#pulse", 
+        "degree": 18, 
+        "associated_names": [
+            "diversity.#maga", 
+            "diversity.#pulsenighclubshooting", 
+            "diversity.#orlando", 
+            "diversity.#orlandohorror", 
+            "diversity.#fbi", 
+            "diversity.#berlinfororlando", 
+            "diversity.#pride", 
+            "diversity.#melfie", 
+            "diversity.#loveoneanother", 
+            "diversity.#love", 
+            "diversity.#shooting", 
+            "diversity.#orlandounited", 
+            "diversity.#vigil", 
+            "diversity.#isis", 
+            "diversity.#endgunviolence", 
+            "diversity.#lgbtpride", 
+            "diversity.#pulse", 
+            "diversity.#hillary2016"
+        ], 
+        "name_frequency": 63736, 
+        "associated_name_frequencies": [
+            222.0, 
+            194.0, 
+            8983.0, 
+            269.0, 
+            447.0, 
+            157.0, 
+            5618.0, 
+            80.0, 
+            2746.0, 
+            95.0, 
+            217.0, 
+            46.0, 
+            103.0, 
+            224.0, 
+            210.0, 
+            388.0, 
+            38564.0, 
+            136.0
+        ]
+    }, 
+    {
+        "name": "diversity.#spulse", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#spulse"
+        ], 
+        "name_frequency": 1, 
+        "associated_name_frequencies": [
+            1.0
+        ]
+    }, 
+    {
+        "name": "diversity.#westboro", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#pulse"
+        ], 
+        "name_frequency": 514, 
+        "associated_name_frequencies": [
+            514.0
+        ]
+    }, 
+    {
+        "name": "diversity.#wftv", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#wftv"
+        ], 
+        "name_frequency": 47, 
+        "associated_name_frequencies": [
+            47.0
+        ]
+    }, 
+    {
+        "name": "diversity.#pdf1", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#iartg"
+        ], 
+        "name_frequency": 16, 
+        "associated_name_frequencies": [
+            16.0
+        ]
+    }, 
+    {
+        "name": "diversity.#hillary2016", 
+        "degree": 0, 
+        "associated_names": [], 
+        "name_frequency": 136, 
+        "associated_name_frequencies": []
+    }, 
+    {
+        "name": "diversity.#prayfororlando", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#prayfororlando"
+        ], 
+        "name_frequency": 548, 
+        "associated_name_frequencies": [
+            548.0
+        ]
+    }, 
+    {
+        "name": "diversity.#disarmhate", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#disarmhate"
+        ], 
+        "name_frequency": 288, 
+        "associated_name_frequencies": [
+            288.0
+        ]
+    }, 
+    {
+        "name": "diversity.#phillypride", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#phillypride"
+        ], 
+        "name_frequency": 360, 
+        "associated_name_frequencies": [
+            360.0
+        ]
+    }, 
+    {
+        "name": "diversity.#lgbt", 
+        "degree": 1, 
+        "associated_names": [
+            "diversity.#orlando"
+        ], 
+        "name_frequency": 530, 
+        "associated_name_frequencies": [
+            50.0
+        ]
+    }
+]
