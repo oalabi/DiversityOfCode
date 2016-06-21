@@ -1,136 +1,176 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <head>
-<link href='https://fonts.googleapis.com/css?family=Raleway|Open+Sans+Condensed:300|Inconsolata|Josefin+Sans|Maven+Pro|Quicksand|Amatic+SC|Pathway+Gothic+One|Orbitron:400,900' rel='stylesheet' type='text/css'>-->
+<link href='https://fonts.googleapis.com/css?family=Raleway|Open+Sans+Condensed:300|Inconsolata|Josefin+Sans|Maven+Pro|Quicksand|Amatic+SC|Pathway+Gothic+One|Orbitron:400,900' rel='stylesheet' type='text/css'>
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js">
+</script>
+	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js">
+</script>
+	
+	<!-- Debug -->
+	<script src="../Plugins/jQRangeSlider/jQRangeSliderMouseTouch.js">
+</script>
+	<script src="../Plugins/jQRangeSlider/jQRangeSliderDraggable.js">
+</script>
+	<script src="../Plugins/jQRangeSlider/jQRangeSliderHandle.js">
+</script>
+	<script src="../Plugins/jQRangeSlider/jQRangeSliderBar.js">
+</script>
+	<script src="../Plugins/jQRangeSlider/jQRangeSliderLabel.js">
+</script>
+	<script src="../Plugins/jQRangeSlider/jQRangeSlider.js">
+</script>
+
+	<script src="../Plugins/jQRangeSlider/jQDateRangeSliderHandle.js">
+</script>
+	<script src="../Plugins/jQRangeSlider/jQDateRangeSlider.js">
+</script>
+	
+	<script src="../Plugins/jQRangeSlider/jQEditRangeSliderLabel.js">
+</script>
+	<script src="../Plugins/jQRangeSlider/jQEditRangeSlider.js">
+</script>
+	<!-- /Debug -->
+	
+	<!-- Minified --><!--
+	<script src="../jQAllRangeSliders-min.js"></script>
+	--><!-- /Minified -->
+
+	<!--<script src="../Plugins/jQRangeSlider/sliderDemo.js"></script>
+	<script src="../Plugins/jQRangeSlider/dateSliderDemo.js"></script>
+	<script src="../Plugins/jQRangeSlider/../Plugins/jQRangeSlider/editSliderDemo.js"></script>
+	<script src=../Plugins/jQRangeSlider/demo.js"></script> -->
+	
 </head>
 <html>
 <title>Diversity in Tech on Twitter</title>
 <meta name="Description" content="In this interactive data visualization you can investigate pre-fetched Twitter information on select topics on diversity." />
 <style>
 
-html{
-  background-color: #262626
+
+html {
+    background-color: #262626
 }
 
 body {
-  margin: 0px;
+    margin: 0px;
 }
 input[type=range] {
-  -webkit-appearance: none;
-  float: right;
+    -webkit-appearance: none;
+    float: right;
 }
 input[type=range]:focus {
-  outline: none;
+    outline: none;
 }
 input[type=range]::-webkit-slider-runnable-track {
-  width: 100%;
-  height: 12px;
-  cursor: pointer;
-  animate: 0.2s;
-  box-shadow: 0px 0px 2px #8A8A8A;
-  background: #374557;
-  border-radius: 0px;
-  border: 2px solid #545454;
+    width: 100%;
+    height: 12px;
+    cursor: pointer;
+    animate: 0.2s;
+    box-shadow: 0px 0px 2px #8A8A8A;
+    background: #374557;
+    border-radius: 0px;
+    border: 2px solid #545454;
 }
 input[type=range]::-webkit-slider-thumb {
-  box-shadow: 0px 0px 0px #A6A6A6;
-  border: 2px solid #FF4D4D;
-  height: 12px;
-  width: 30px;
-  border-radius: 0px;
-  background: #FF4D4D;
-  cursor: pointer;
-  -webkit-appearance: none;
-  margin-top: -2px;
+    box-shadow: 0px 0px 0px #A6A6A6;
+    border: 2px solid #FF4D4D;
+    height: 12px;
+    width: 30px;
+    border-radius: 0px;
+    background: #FF4D4D;
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -2px;
 }
 input[type=range]:focus::-webkit-slider-runnable-track {
-  background: #374557;
+    background: #374557;
 }
 input[type=range]::-moz-range-track {
-  width: 100%;
-  height: 12px;
-  cursor: pointer;
-  animate: 0.2s;
-  box-shadow: 0px 0px 2px #8A8A8A;
-  background: #374557;
-  border-radius: 0px;
-  border: 2px solid #545454;
+    width: 100%;
+    height: 12px;
+    cursor: pointer;
+    animate: 0.2s;
+    box-shadow: 0px 0px 2px #8A8A8A;
+    background: #374557;
+    border-radius: 0px;
+    border: 2px solid #545454;
 }
 input[type=range]::-moz-range-thumb {
-  box-shadow: 0px 0px 0px #A6A6A6;
-  border: 2px solid #FF4D4D;
-  height: 12px;
-  width: 30px;
-  border-radius: 0px;
-  background: #FF4D4D;
-  cursor: pointer;
+    box-shadow: 0px 0px 0px #A6A6A6;
+    border: 2px solid #FF4D4D;
+    height: 12px;
+    width: 30px;
+    border-radius: 0px;
+    background: #FF4D4D;
+    cursor: pointer;
 }
 input[type=range]::-ms-track {
-  width: 100%;
-  height: 12px;
-  cursor: pointer;
-  animate: 0.2s;
-  background: transparent;
-  border-color: transparent;
-  color: transparent;
+    width: 100%;
+    height: 12px;
+    cursor: pointer;
+    animate: 0.2s;
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
 }
 input[type=range]::-ms-fill-lower {
-  background: #374557;
-  border: 2px solid #545454;
-  border-radius: 0px;
-  box-shadow: 0px 0px 2px #8A8A8A;
+    background: #374557;
+    border: 2px solid #545454;
+    border-radius: 0px;
+    box-shadow: 0px 0px 2px #8A8A8A;
 }
 input[type=range]::-ms-fill-upper {
-  background: #374557;
-  border: 2px solid #545454;
-  border-radius: 0px;
-  box-shadow: 0px 0px 2px #8A8A8A;
+    background: #374557;
+    border: 2px solid #545454;
+    border-radius: 0px;
+    box-shadow: 0px 0px 2px #8A8A8A;
 }
 input[type=range]::-ms-thumb {
-  box-shadow: 0px 0px 0px #A6A6A6;
-  border: 2px solid #FF4D4D;
-  height: 12px;
-  width: 30px;
-  border-radius: 0px;
-  background: #FF4D4D;
-  cursor: pointer;
+    box-shadow: 0px 0px 0px #A6A6A6;
+    border: 2px solid #FF4D4D;
+    height: 12px;
+    width: 30px;
+    border-radius: 0px;
+    background: #FF4D4D;
+    cursor: pointer;
 }
 input[type=range]:focus::-ms-fill-lower {
-  background: #374557;
+    background: #374557;
 }
 input[type=range]:focus::-ms-fill-upper {
-  background: #374557;
+    background: #374557;
 }
 
 table.table_Body {
-	width: 100%;
-	height: 100%;
-   }
+    width: 100%;
+    height: 100%;
+}
 
 td.td_BodyLeft {
-	width: 100px;
-	height: 100px;
-	position: relative;
-	padding: 1em;
-	background: #262626;
-	vertical-align: text-top;
-   }
+    width: 100px;
+    height: 100px;
+    position: relative;
+    padding: 1em;
+    background: #262626;
+    vertical-align: text-top;
+}
 
 td.td_BodyRight {
     position: relative;
-    width: 100%;	
-	height: 925px;
-	padding-left: 325px;
-	background: #ffffff;
-	background-image: url("images/triangle-geometric-background.png");
-    background-repeat: no-repeat; 
-     background-repeat: no-repeat; 
+    width: 100%;
+    height: 925px;
+    padding-left: 325px;
+    background: #ffffff;
+    background-image: url("images/triangle-geometric-background.png");
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
     -ms-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
-    background-size: cover;    
-   }
+    background-size: cover;
+}
 
 td.td_BodyRight img {
     position: absolute;
@@ -141,20 +181,20 @@ td.td_BodyRight img {
     opacity: 0.6;
 }
 
-#dataset-list { 
+#dataset-list {
     width: 300px;
 }
 
 label {
- float: right;
- width: 100%;
- margin: 5px 0;
+    float: right;
+    width: 100%;
+    margin: 5px 0;
 }
 
 h2 {
     font-weight: 900;
-    font: 300 16px  'Orbitron', sans-serif;
-    color:  #ff4d4d;
+    font: 300 16px 'Orbitron', sans-serif;
+    color: #ff4d4d;
     margin: 3;
     padding: 0;
     border: 0;
@@ -170,103 +210,102 @@ hr {
     border: 0;
     border-top: 1px solid #ff0080;
     margin: 1em 0;
-    padding: 0; 
+    padding: 0;
 }
 
-p, div{
+p, div {
     font-weight: bold;
     font: 300 11px 'Quicksand', sans-serif;
     outline: 0;
     font-size: 100%;
     vertical-align: baseline;
     background: transparent;
-    color:  #cccccc;     
+    color: #cccccc;
 }
 
 .node {
-  font: 300 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  fill: #ff0080;
+    font: 300 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    fill: #ff0080;
 }
 
 .node:hover {
-  fill: #000;
+    fill: #000;
 }
 
 .link {
-  stroke: steelblue;
-  stroke-opacity: .4;
-  fill: none;
-  pointer-events: none;
+    stroke: steelblue;
+    stroke-opacity: .4;
+    fill: none;
+    pointer-events: none;
 }
 
 .node:hover,
 .node--source,
 .node--target {
-  font-weight: 700;
+    font-weight: 700;
 }
 
 .node--source {
-  fill: #2ca02c;
+    fill: #2ca02c;
 }
 
 .node--target {
-  fill: #d62728;
+    fill: #d62728;
 }
 
 .link--source,
 .link--target {
-  stroke-opacity: 1;
-  stroke-width: 2px;
+    stroke-opacity: 1;
+    stroke-width: 2px;
 }
 
 .link--source {
-  stroke: #d62728;
+    stroke: #d62728;
 }
 
 .link--target {
-  stroke: #2ca02c;
+    stroke: #2ca02c;
 }
 
-.node--freq{
-  font: 10px sans-serif;
-  background-color: steelblue;
-  text-align: right;
-  padding: 3px;
-  margin: 1px;
-  color: white;
+.node--freq {
+    font: 10px sans-serif;
+    background-color: steelblue;
+    text-align: right;
+    padding: 3px;
+    margin: 1px;
+    color: white;
 }
 
 
 .axis {
-  font: 10px sans-serif;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
+    font: 10px sans-serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
 }
 
 .axis .domain {
-  fill: none;
-  stroke: #000;
-  stroke-opacity: .3;
-  stroke-width: 10px;
-  stroke-linecap: round;
+    fill: none;
+    stroke: #000;
+    stroke-opacity: .3;
+    stroke-width: 10px;
+    stroke-linecap: round;
 }
 
 .axis .halo {
-  fill: none;
-  stroke: #ddd;
-  stroke-width: 8px;
-  stroke-linecap: round;
+    fill: none;
+    stroke: #ddd;
+    stroke-width: 8px;
+    stroke-linecap: round;
 }
 
 .slider .handle {
-  fill: #fff;
-  stroke: #000;
-  stroke-opacity: .5;
-  stroke-width: 1.25px;
-  cursor: crosshair;
+    fill: #fff;
+    stroke: #000;
+    stroke-opacity: .5;
+    stroke-width: 1.25px;
+    cursor: crosshair;
 }
-
 </style>
 <body>
 <table class="table_Body">
@@ -276,7 +315,7 @@ p, div{
             Visualizing Hashtag Relationships
       </h2>
       <p>
-            Precursor tags in green and the Successor tags in red.
+            Precursor tags in <font color="lime">green</font> and the Successor tags in <font color="#ff5c33">red</font>.
       </p>
       <hr/>
       <br/>
@@ -309,52 +348,67 @@ p, div{
             	<input type="range" min="1" max="100" id="tension">
             </label>          	
           <br>
-            <label for="degree-range">
-                 <div id="degree-slider"></div>
-                 </div>
+            <label for="min-degree">
+                   min degree : <span id="min-degree-value">0</span>
+            	<input type="range" min="0" max="1" id="min-degree">
             </label>          	
-          <br>          	
+          <br>
+          	<label for="max-degree">
+                   max degree : <span id="max-degree-value">1</span>
+            	<input type="range" min="0" max="1" id="max-degree">
+            </label>
+          	             	
       </div>
-
     </td>
 <td class="td_BodyRight">
 	
 </td>
 </table>
 <!-- <script src="//d3js.org/d3.v3.min.js"></script> -->
-<script src="d3.min.js"></script>
+<script src="d3.min.js">
+</script>
 <script>
-var data0 = "None",
-    data1 = "data/output_freq.json",
-    data2 = "data/harriet-04-26-2016_freq.json", 
-    data3 = "data/diversity_output_04-24-2016_freq.json";
-    data4 = "data/diversity_output_04-26-2016_freq.json";
-    data5 = "data/hb2_freq.json";
-    data6 = "data/hb2test_1day.json";
-    data7 = "data/HB2grimm.json";
-    data8 = "data/HB2patdoj.json";
-    data9 = "data/HB2gupta.json";
-    data10 = "data/hb2lynchtestmay.json";
-    data11 = "data/wearenotthis_test1.json";
-    data12 = "data/boycottnc_test1.json";
-    data13 = "data/nohateinourstate_test1.json";
-    data14 = "data/occupotty_test1.json";
-    data15 = "data/translivesmatter_test1.json";
-    data16 = "data/KeepNCSafe_test1.json";
-    data17 = "data/patpromises_test1.json";
-    data18 = "data/pattweets_test1.json"; 
+
+var data0 = "None"
+  , 
+data1 = "data/output_freq.json"
+  , 
+data2 = "data/harriet-04-26-2016_freq.json"
+  , 
+data3 = "data/diversity_output_04-24-2016_freq.json";
+data4 = "data/diversity_output_04-26-2016_freq.json";
+data5 = "data/hb2_freq.json";
+data6 = "data/hb2test_1day.json";
+data7 = "data/HB2grimm.json";
+data8 = "data/HB2patdoj.json";
+data9 = "data/HB2gupta.json";
+data10 = "data/hb2lynchtestmay.json";
+data11 = "data/wearenotthis_test1.json";
+data12 = "data/boycottnc_test1.json";
+data13 = "data/nohateinourstate_test1.json";
+data14 = "data/occupotty_test1.json";
+data15 = "data/translivesmatter_test1.json";
+data16 = "data/KeepNCSafe_test1.json";
+data17 = "data/patpromises_test1.json";
+data18 = "data/pattweets_test1.json";
 
 
-var xshift = 0,
-    yshift = 5,
-    diameter = 900,
-    radius = diameter / 2,
-    innerRadius = radius - 120;
+var xshift = 0
+  , 
+yshift = 5
+  , 
+diameter = 900
+  , 
+radius = diameter / 2
+  , 
+innerRadius = radius - 120;
 
 var cluster = d3.layout.cluster()
-    .size([360, innerRadius])
-    .sort(null)
-    .value(function(d) { return d.size; });
+.size([360, innerRadius])
+.sort(null )
+.value(function(d) {
+    return d.size;
+});
 
 var bundle = d3.layout.bundle();
 
@@ -363,157 +417,194 @@ var svg_block, svg, node, link;
 var init_tension = .85;
 d3.select("#tension-value").text(init_tension);
 d3.select("#tension").property("value", init_tension * 100);
+d3.select("#min-degree").property("value", 0);
+d3.select("#max-degree").property("value", 1);
 
 function mouseovered(d) {
-  node.each(function(n) { n.target = n.source = false;});
-
-  link.classed("link--target", function(l) { if (l.target === d) return l.source.source = true; })
-      .classed("link--source", function(l) { if (l.source === d) return l.target.target = true; })
-      .filter(function(l) { return l.target === d || l.source === d; })
-      .each(function() { this.parentNode.appendChild(this); });
-
-  node.classed("node--target", function(n) { return n.target; })
-      .classed("node--source", function(n) { return n.source; });
+    node.each(function(n) {
+        n.target = n.source = false;
+    });
+    
+    link.classed("link--target", function(l) {
+        if (l.target === d)
+            return l.source.source = true;
+    })
+    .classed("link--source", function(l) {
+        if (l.source === d)
+            return l.target.target = true;
+    })
+    .filter(function(l) {
+        return l.target === d || l.source === d;
+    })
+    .each(function() {
+        this.parentNode.appendChild(this);
+    });
+    
+    node.classed("node--target", function(n) {
+        return n.target;
+    })
+    .classed("node--source", function(n) {
+        return n.source;
+    });
 }
 
 function mouseouted(d) {
-  link
-      .classed("link--target", false)
-      .classed("link--source", false);
-
-  node
-      .classed("node--target", false)
-      .classed("node--source", false);
+    link
+    .classed("link--target", false)
+    .classed("link--source", false);
+    
+    node
+    .classed("node--target", false)
+    .classed("node--source", false);
 }
 
 d3.select(self.frameElement).style("height", diameter + "px");
 
 // Lazily construct the data hierarchy from class names.
 function itemHierarchy(classes) {
-  var map = {};
-
-  function find(name, data) {
-    var node = map[name], i;
-    if (!node) {
-      node = map[name] = data || {name: name, children: []};
-      if (name.length) {
-        try {
-          node.parent = find(name.substring(0, i = name.lastIndexOf(".")));
-          node.key = name.substring(i + 1);
-
-          node.parent.children.push(node);
+    var map = {};
+    
+    function find(name, data) {
+        var node = map[name], i;
+        if (!node) {
+            node = map[name] = data || {
+                name: name,
+                children: []
+            };
+            if (name.length) {
+                try {
+                    node.parent = find(name.substring(0, i = name.lastIndexOf(".")));
+                    node.key = name.substring(i + 1);
+                    
+                    node.parent.children.push(node);
+                } 
+                catch (e) {
+                    console.info("root? " + e);
+                    node.parent.children = [];
+                    node.parent.children.push(node)
+                }
+            }
         }
-        catch (e) {
-          console.info("root? " + e); 
-          node.parent.children = [];
-          node.parent.children.push(node)
-        }      
-      }
+        return node;
     }
-    return node;
-  }
-
-  classes.forEach(function(d) {
-    find(d.name, d);
-  });
-
-  return map[""];
+    
+    classes.forEach(function(d) {
+        find(d.name, d);
+    });
+    
+    return map[""];
 }
 
 // Return a list of associated_names for the given array of nodes.
 function associatedNames(nodes) {
-  var map = {},
-      associated_names = [];
-
-  // Compute a map from name to node.
-  nodes.forEach(function(d) {
-    map[d.name] = d;
-  });
-
-  // For each associated_name, construct a link from the source to target node.
-  nodes.forEach(function(d) {
-    if (d.associated_names) d.associated_names.forEach(function(i) {
-      associated_names.push({source: map[d.name], target: map[i]});
+    var map = {}
+      , 
+    associated_names = [];
+    
+    // Compute a map from name to node.
+    nodes.forEach(function(d) {
+        map[d.name] = d;
     });
-  });
-
-  return associated_names;
+    
+    // For each associated_name, construct a link from the source to target node.
+    nodes.forEach(function(d) {
+        if (d.associated_names)
+            d.associated_names.forEach(function(i) {
+                associated_names.push({
+                    source: map[d.name],
+                    target: map[i]
+                });
+            });
+    });
+    
+    return associated_names;
 }
 
 function updateData(newData) {
     // create an array of key, value objects
     var array = [];
-    var min_degree_freq = 0, max_degree_freq = 0;
-
-    for (a in newData){
-       array.push([a, newData[a]])
-       min_degree_freq = Math.min(min_degree_freq, newData[a].degree);
-       max_degree_freq = Math.max(max_degree_freq, newData[a].degree);
-    }
-
-    var sorted_data = d3.entries(array).sort(function(a, b) { 
-    return d3.descending(a.value[1].size, b.value[1].size); 
-    });        
+    var min_degree_freq = 0
+      , max_degree_freq = 0;
     
-    //d3.select("#degree-range").property("max", max_degree_freq);
-    //d3.select("#degree-range").property("min", min_degree_freq);
-     
+    for (a in newData) {
+        array.push([a, newData[a]])
+        min_degree_freq = Math.min(min_degree_freq, newData[a].degree);
+        max_degree_freq = Math.max(max_degree_freq, newData[a].degree);
+    }
+    
+    var sorted_data = d3.entries(array).sort(function(a, b) {
+        return d3.descending(a.value[1].size, b.value[1].size);
+    });
+    
+    d3.select("#max-degree").property("max", max_degree_freq);
+    d3.select("#max-degree").property("min", min_degree_freq);         
+    d3.select("#min-degree").property("max", max_degree_freq);
+    d3.select("#min-degree").property("min", min_degree_freq);  
+    d3.select("#min-degree").property("value", min_degree_freq);
+    d3.select("#max-degree").property("value", max_degree_freq); 
+    d3.select("#min-degree-value").text(min_degree_freq)
+    d3.select("#max-degree-value").text(max_degree_freq)
+    
     var line = d3.svg.line.radial()
-      .interpolate("bundle")
-      .tension(init_tension)
-      .radius(function(d) { return d.y; })
-      .angle(function(d) { return d.x / 180 * Math.PI; });  
-
+    .interpolate("bundle")
+    .tension(init_tension)
+    .radius(function(d) { return d.y;})
+    .angle(function(d) { return d.x / 180 * Math.PI; });
+    
     svg_block = d3.select("td.td_BodyRight");
     svg = svg_block.append("svg")
-        .attr("width", diameter + xshift)
-        .attr("height", diameter )
-        .append("g")
-        .attr("transform", "translate(" + (radius + xshift) + "," + (radius + yshift) + ")");
-
+    .attr("width", diameter + xshift)
+    .attr("height", diameter)
+    .append("g")
+    .attr("transform", "translate(" + (radius + xshift) + "," + (radius + yshift) + ")");
+    
     link = svg.append("g").selectAll(".link"),
-    node = svg.append("g").selectAll(".node");                
-
-    var nodes = cluster.nodes(itemHierarchy(newData)),
-        links = associatedNames(nodes),
-        splines  = bundle(links);           
-
+    node = svg.append("g").selectAll(".node");
+    
+    var nodes = cluster.nodes(itemHierarchy(newData)) , 
+    links = associatedNames(nodes), 
+    splines = bundle(links);
+    
     // add new links
     link = link.data(bundle(links))
-        .enter().append("path")
-        .each(function(d) { d.source = d[0], d.target = d[d.length - 1]; })
-        .attr("class", "link")
-        .attr("d", line);        
-
+    .enter().append("path")
+    .each(function(d) {d.source = d[0], d.target = d[d.length - 1]; })
+    .attr("class", "link")
+    .attr("d", line);
+    
     // add new nodes
-    node = node.data(nodes.filter(function(n) { return !n.children; }))
-        .enter().append("text")
-        .attr("frequency", function(d) { return d.name_frequency; })
-        .attr("degree", function(d) { return d.degree; })
-        .attr("class", "node")
-        .attr("dy", ".1em")
-        .attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + (d.y + 8) + ",0)" + (d.x < 180 ? "" : "rotate(180)"); })
-        .style("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
-        .text(function(d) { return d.key; })
-        .on("mouseover", mouseovered)
-        .on("mouseout", mouseouted);
-
+    node = node.data(nodes.filter(function(n) {return !n.children;}))
+    .enter().append("text")
+    .attr("frequency", function(d) {return d.name_frequency;})
+    .attr("degree", function(d) {return d.degree; })
+    .attr("class", "node")
+    .attr("dy", ".1em")
+    .attr("transform", function(d) {return "rotate(" + (d.x - 90) + ")translate(" + (d.y + 8) + ",0)" + (d.x < 180 ? "" : "rotate(180)");})
+    .style("text-anchor", function(d) {return d.x < 180 ? "start" : "end";})
+    .text(function(d) { return d.key;})
+    .on("mouseover", mouseovered)
+    .on("mouseout", mouseouted);
+    
     d3.select("#tension").on("input", function() {
         // adjust the text on the range slider
-        var val = this.value/100; 
+        var val = this.value / 100;
         d3.select("#tension-value").text(val);
         d3.select("#tension").property("value", this.value);
         line.tension(val);
-        link.attr("d", function(d, i) { return line(splines[i]); });
+        link.attr("d", function(d, i) {
+            return line(splines[i]);
+        });
     });
-
+    
+    // range slider: filter the edges in the circle graph to brush the data in cases where the
+    // data is overplotted
     d3.select("#min-degree").on("input", function() {
         // filter by link degree
         var val = this.value;
         var max_val = d3.select("#max-degree-value").text();
         
 
-        if(val > Number(max_val)){
+        if(val > max_val){
            d3.select("#max-degree-value").property("value", val);
            d3.select("#max-degree-value").text(val);         
         }
@@ -521,8 +612,8 @@ function updateData(newData) {
         d3.select("#min-degree-value").property("value", val);
         d3.select("#min-degree-value").text(val);
 
-        d3.selectAll("path.node")
-              .filter(function (link) {
+        var temp = d3.selectAll("text.node");
+        temp.filter(function (node) {
                   // Find all the links that come to/from this node
                   if (node.degree > val) {
                       return true;
@@ -534,114 +625,51 @@ function updateData(newData) {
              .style("opacity", 0.1);
 
     });
-
+    
     d3.select("#max-degree").on("input", function() {
         // filter by link degree
         var val = this.value;
-        var min_val = d3.select("#min-degree-value").text();
+        var min_val = d3.select("#min-degree-value").property("value");
         
-        if(val < Number(min_val)){
+        if(val < min_val){
           d3.select("#min-degree-value").property("value", val);
           d3.select("#min-degree-value").text(val);                   
         }
        
         d3.select("#max-degree-value").property("value", val);
         d3.select("#max-degree-value").text(val);
-
-        d3.selectAll("path.node")
-              .filter(function (link) {
-                  // Find all the links that come to/from this node
-                  if (node.degree < val) {
-                      return true;
-                  }
-
-                  return false;
-              })
-             .transition()
-             .style("opacity", 0.1);
-        
+  
+        var temp = d3.selectAll("text.node");
+        temp.filter(function(node) {
+            // Find all the links that come to/from this node
+            if (node.degree < val) {
+                return true;
+            }
+            
+            return false;
+        })
+        .transition()
+        .style("opacity", 0.1);
+    
     });
+
 }
 
 //add this event listener to the first menu (as a whole):
-d3.select("td.td_BodyLeft #dataset-list").on("change", function(){
-  var newData = eval(d3.select(this).property('value'));
-
-  // remove old elements
-  d3.select("svg").remove();
-  if (newData != data0){
-    //Read new data, then call function operating on data
-    d3.json(newData,function(error,jsonData){
-        if(error)
-          return console.warn(error);
-
-        updateData(jsonData);
-    });
-  }
+d3.select("td.td_BodyLeft #dataset-list").on("change", function() {
+    var newData = eval(d3.select(this).property('value'));
+    
+    // remove old elements
+    d3.select("svg").remove();
+    if (newData != data0) {
+        //Read new data, then call function operating on data
+        d3.json(newData, function(error, jsonData) {
+            if (error)
+                return console.warn(error);
+            
+            updateData(jsonData);
+        });
+    }
 });
-
-function slider(){
-  var x = d3.scale.linear()
-    .domain([0, 180])
-    .range([0, width])
-    .clamp(true);
-
-var brush = d3.svg.brush()
-    .x(x)
-    .extent([0, 0])
-    .on("brush", brushed);
-
-var svg = d3.select("body").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-svg.append("g")
-    .attr("class", "x axis")
-    .attr("transform", "translate(0," + height / 2 + ")")
-    .call(d3.svg.axis()
-      .scale(x)
-      .orient("bottom")
-      .tickFormat(function(d) { return d + "°"; })
-      .tickSize(0)
-      .tickPadding(12))
-  .select(".domain")
-  .select(function() { return this.parentNode.appendChild(this.cloneNode(true)); })
-    .attr("class", "halo");
-
-var slider = svg.append("g")
-    .attr("class", "slider")
-    .call(brush);
-
-slider.selectAll(".extent,.resize")
-    .remove();
-
-slider.select(".background")
-    .attr("height", height);
-
-var handle = slider.append("circle")
-    .attr("class", "handle")
-    .attr("transform", "translate(0," + height / 2 + ")")
-    .attr("r", 9);
-
-slider
-    .call(brush.event)
-  .transition() // gratuitous intro!
-    .duration(750)
-    .call(brush.extent([70, 70]))
-    .call(brush.event);
-
-function brushed() {
-  var value = brush.extent()[0];
-
-  if (d3.event.sourceEvent) { // not a programmatic event
-    value = x.invert(d3.mouse(this)[0]);
-    brush.extent([value, value]);
-  }
-
-  handle.attr("cx", x(value));
-  d3.select("body").style("background-color", d3.hsl(value, .8, .8));
-};
 
 </script>
